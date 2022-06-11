@@ -1,0 +1,6 @@
+framework module Pods_TTS_Voca {
+  umbrella header "Pods-TTS Voca-umbrella.h"
+
+  export *
+  module * { export * }
+}

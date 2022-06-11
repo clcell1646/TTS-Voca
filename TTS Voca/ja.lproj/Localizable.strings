@@ -1,0 +1,264 @@
+/* 
+  Localizable.strings
+  TTS Voca
+
+  Created by 정지환 on 25/08/2019.
+  Copyright © 2019 Jihwan Jung. All rights reserved.
+*/
+
+// TAB BAR CONTROLLER（GLOBAL）-START-
+"Edit" = "編集";
+"Voca" = "単語帳";
+"Cancel" = "キャンセル";
+"Word" = "単語";
+"Mean" = "意味";
+"word" = "単語";
+" words" = "単語";
+"Total learnings" = "総学習回数"; // 総学習カウント
+" times" = "回";
+"Remove" = "削除";
+"Delete" = "削除";
+"Yes" = "はい";
+"No" = "いいえ";
+"Ok" = "確認";
+"Done" = "完了";
+"Next" = "次";
+"Settings"="設定";
+"Save" = "保存";
+// TAB BAR CONTROLLER（GLOBAL）--END--
+
+
+// Bean
+"Global Dict" = "グローバル辞書"; // 뒤의 두자가 사전인가?
+
+// FirstTab -START-
+// VocaListVC
+"Tag" = "タグ";
+"Align" = "並べ替え"; // せいれつ
+"All" = "全部"; // すべて
+"Align Review required" = "復習必要順";
+"Align Creation date" = "作成日順";
+
+"There is no voca selected." = "選択された単語帳がありません。";
+"There is not enough slots to make more voca." = "スロットが不足して単語帳を発生することができません。";
+"Expand" = "拡張する";
+"Allow notification" = "通知を許可する";
+"Do not allow notifications" = "通知を許可しない"; //  vs Notification not allowed
+"Ebbinghaus notifications have been set." = "エビングハウス通知が設定されました。";
+"Ebbinghaus notifications are not available.\nPlease check your settings." = "エビングハウスの通知を使用することができません。設定を確認してください。";
+"Please select a task to run." = "実行するタスクを選択してください。";
+"Turn off notifications" = "通知をオフに";
+"Turn on notifications" = "通知をオンに";
+"Do you want to turn on notifications for the selected voca?" = "選択された単語帳の通知をオンにしますか？";
+"You have turned on notifications for the selected voca." = "単語帳の通知がオンになっています。";
+"Do you want to turn off notifications for the selected voca?" = "選択された単語帳の通知をオフにしますか？";
+"You have turned off notifications for the selected voca." = "単語帳の通知がオフになっています。";
+"Are you sure you want to delete\nthe selected vocabulary?" = "選択された単語帳を削除しますか？";
+"Deleted selected voca." = "選択された単語帳を削除しました。";
+"This voca has been deactivated due to lack of slots.\nPlease check your account slot count." = "スロット不足に無効にされた単語帳です。アカウントスロット数を確認してください。";
+"Select voca" = "単語帳を選択";
+" items" = "つの項目";
+"Are you sure you want to delete\nthe selected vocabulary?" = "選択された単語帳を削除しますか？";
+"Deleted selected voca." = "選択された単語帳を削除しました。";
+"Review" = "復習 必要"; // 復習が必要
+
+
+// VocaDetailVC
+"Touch a word to hear it.\n(You must turn off mute switch.)" = "単語をタッチして発音を聞くことができます。\n（ミュートスイッチをオフにしてください。）";
+"Show all" = "全部";
+"Word only" = "単語だけ";
+"Mean only" = "意味だけ";
+"Learning" = "学習する";
+
+"Notification" = "通知";
+"Creation date" = "作成日";
+"Word count" = "ワード数";
+"Total learnings" = "総学習回数";
+"Total learning time" = "総学習時間";
+"Due date" = "学習予定日";
+"Ebbinghaus level" = "エビングハウス段階";
+"Undecided" = "未定";
+"Unlearned" = "未学習";
+
+// Eidt voca word
+"Edit word" = "単語編集";
+
+// EditVocaWordVC
+"You can register up to 20." = "最大20個まで登録することができます。";
+"The minimum word count is 4." = "最小ワード数は4つです。";
+"Line" = "";
+" is empty." = "行が空白です。";
+"Are you sure you want to delete the word?" = "単語を削除しますか？";
+"Add word" = "単語追加";
+
+// New voca & Edit voca data
+"New voca" = "新しい単語帳";
+"Edit voca" = "単語帳編集";
+"Tag color" = "タグの色";
+"Voca title" = "単語帳の名前";
+"Language" = "言語";
+"Word count" = "ワード数";
+"Preview" = "プレビュー";
+"Please enter a vocabulary name." = "単語帳の名前を入力してください。";
+"Select" = "選択";
+"Please select a language." = "言語を選択してください。";
+
+// Preview VC
+"Close" = "閉じる";
+
+// WordFormVC
+"Enter word" = "単語入力";
+
+// LearningVC
+"Learning completed" = "学習完了";
+"Are you sure you want to cancel the learning?" = "学習をキャンセルしますか？";
+"No dictionary" = "辞書なし";
+"Please set the dictionary in the Settings tab." = "[設定]タブから辞書を設定してください。";
+
+
+// FirstTab --END--
+
+
+// SecondTab -START-
+"My Info" = "私の情報";
+"My voca" = "私単語帳";
+"Slot count" = "スロット数";
+"Total exp" = "総経験値";
+"Total learning time" = "総学習時間";
+"Today's learning time" = "今日の学習時間";
+"Last 7 days learning history" = "過去7日間の学習記録";
+"no data" = "記録なし";
+" slots" = "個";
+"Unit" = "単位";
+
+// SecondTab --End--
+
+
+// ThirdTab -START-
+
+// header titles
+"Account" = "アカウント";
+"Ebbinghaus" = "エビングハウス";
+"Notification" = "通知";
+"TTS" = "TTS";
+"Short answer questions" = "記述式問題";
+"Dictionary" = "辞書";
+"Additional features" = "追加機能";
+"Contact us" = "お問い合わせ";
+
+// footer titles
+"Essential option for maximum learning." = "学習効果を最大化するために必須のオプションです。";
+"After exiting the app, after the time you set, notification the number of voca need to be reviewed." = "アプリを終了した後、設定した時間が経過すると復習が必要な単語帳の数を教えてくれます。"; // 많이 이상하다.
+"Please turn off the mute mode of your iPhone." = "iPhoneのミュートモードをオフにしてください。";
+"During learning, each word will have three levels: multiple choice(native language selection), multiple choice(foreign language selection), and short answer(foreign language input)." = "学習時の各単語は、複数の選択肢（日本語選択）、複数の選択肢（外国語選択）、記述式（外国語入力）3段階が出題されます。";
+"You can set a dictionary for each language you want to learn." = "学習言語別の辞書を設定することができます。";
+"You must have a mail account registered on your iPhone." = "iPhoneのメールアカウントが登録されているべきです。";
+
+// Setting Cell's Labels
+"Login" = "ログイン";
+"Logout" = "ログアウト";
+"Ebbinghaus notification" = "エビングハウス通知";
+"What is the Ebbinghaus Forgetting curve?" = "エビングハウス忘却曲線とは？";
+"Delayed voca notification" = "押された単語帳の通知";
+"bluPickerPrefix" = "アプリを終了して";
+"bluPickerSuffix" = "分後"; // minutes after exiting the app
+"TTSLabelText" = "TTSオン";
+"TTS speaking speed" = "TTS音声速度";
+"Slow" = "スロー";
+"Medium" = "中程度"; // 이것도;
+"Fast" = "速い";
+"Native language" = "母国語";
+"What is TTS?" = "TTSとは？";
+"Short answer question" = "主観式出題"; // 뭔가 이상
+"Dictionary settings" = "辞書設定"; // 뭔가 이상
+"Add 50 voca slots." = "単語帳スロットを50個追加します。";
+"Add 150 voca slots." = "単語帳スロットを150個追加します。";
+"Send" = "送る";
+
+"Haus50price" = "¥480";
+"Haus150price" = "¥960";
+
+// Setting Alert
+"Notification not allowed" = "通知は許可されていません";
+"Delayed voca notification are not available." = "押された単語帳の通知を使用することができません";
+"Ebbinghaus notifications are not available." = "エビングハウスの通知を使用することができません。";
+"Login is required." = "ログインが必要です。";
+"Failed to send email" = "メール送信に失敗しました";
+"Please check your device's mail settings." = "機器のメール設定を確認してください。";
+"Do you want to Logout?" = "ログアウトしますか？";
+
+// Setting TTS Speech
+
+// Explanation // 줄글 필수 검수.
+"Ebbinghaus Forgetting curve" = "忘却曲線とは？";
+"Ebbinghaus Survive date" = "(1850年1月24日 ~ 1909年2月26日)";
+"Ebbinghaus explanation1" = "忘却曲線とは、ドイツの心理学者ヘルマン・エビングハウス（Hermann Ebbinghaus、1885）の研究で登場したことは時間が経つにつれ、学習した内容をどのよう忘れ食べるのグラフです。";
+"Ebbinghaus explanation2" = "エビングハウス通知をオンにおかれたら、これによる最適な学習効果を得ることができます。";
+"Ebbinghaus explanation3" = "復習通知は毎学習した後、10分後、1時間後に、1日後に、7日後に、後の30日ごとに繰り返されます。";
+"Ebbinghaus Wikipedia link" = "https://ja.wikipedia.org/wiki/忘却曲線";
+
+// Explanation TTS
+"TTS explanation1" = "TTSとText-To-Speechの略で登録された単語を設定した言語に応じて音を出して発音してくれる機能です。";
+"TTS explanation2" = "TTSの使用のためには、iPhone左側面のマナーモードボタンを無効にする必要があります。";
+"TTS explanation3" = "TTS音声速度は、ステップ1で7段階まで設定が可能であり、基本的な速度は4段階です。";
+"TTS Wikipedia link" = "https://ja.wikipedia.org/wiki/音声合成";
+
+// Purchase VC
+"Attempt payment" = "支払いを試みる";
+
+// Login VC
+"Privacy Policy" = "個人情報保護方針";
+
+// BasicDictionarySelectTVC
+"Global setting(default)" = "グローバル設定（基本）";
+"Global setting" = "グローバル設定";
+"Language-specific presets(advanced)" = "言語別プリセット（詳細）";
+"Language-specific presets" = "言語別プリセット";
+"Dictionary settings" = "辞書設定";
+"Language list" = "言語リスト";
+
+// DictionarySettingTVC
+
+// Header titles
+"DHeader1" = "言語別の辞書を使用";
+"DHeader2" = "辞書名";
+"DHeader3" = "Prefix、Suffix自動入力";
+"DHeader4" = "Prefix手動入力";
+"DHeader5" = "Suffix手動入力";
+"DHeader6" = "Test URL";
+
+// Footer titles
+"DFooter1" = "グローバル設定よりも、この辞書を優先します。";
+"DFooter2" = "学習中に表示される辞書の名前です。";
+"DFooter3" = "ウェブ辞書で「study」を検索した後、アドレスバーのURLをそのままコピー＆ペーストしてください。";
+"DFooter4" = "単語の前に使われる文章です。";
+"DFooter5" = "単語の後ろに使われる文章です。(ない場合は空白)";
+"DFooter6" = "入力されたPrefixとSuffixを利用して、「study」という単語を検索するURLは、上記のようになります。\n\nリンクをクリックして正しく検出されることを確認してください。";
+
+// Dictionary Search
+"Dictionary search" = "辞書検索";
+
+// Dictionary Setting
+"Use dict" = "辞書を使用";
+
+
+
+
+// ThirdTab --END--
+
+"Level 1" = "1段階";
+"Level 2" = "2段階";
+"Level 3" = "3段階";
+"Level 4" = "4段階";
+"Level 5" = "5段階";
+
+// After..
+"Logged-in to another device." = "他の機器からのログインされた。\n再度ログインしてください。";
+"There is no voca. Try adding voca!" = "単語帳がありません。\n単語帳を作成ください！";
+
+"bundleTitle" = "押された単語帳の通知";
+"EditSelect" = "選択";
+"Add" = "追加";
+"Are you sure you want to add shared wordbook?" = "共有された単語帳を追加されますか?";
+"Added successfully." = "成功的に追加されました。";
+"Share" = "公有";

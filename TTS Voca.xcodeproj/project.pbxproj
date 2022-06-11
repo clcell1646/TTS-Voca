@@ -1,0 +1,855 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		AC006FD722A26D4800802BE3 /* TagPalette.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC006FD622A26D4800802BE3 /* TagPalette.swift */; };
+		AC0715BC22B27CE20087D599 /* ShortAnswerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC0715BB22B27CE20087D599 /* ShortAnswerView.swift */; };
+		AC0715BE22B27D4D0087D599 /* ShortAnswerView.xib in Resources */ = {isa = PBXBuildFile; fileRef = AC0715BD22B27D4D0087D599 /* ShortAnswerView.xib */; };
+		AC072D3022B68E40005BF81E /* RandomAnswer.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC072D2F22B68E40005BF81E /* RandomAnswer.swift */; };
+		AC0ACEC222FEAB80001AA9FC /* PurchaseVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC0ACEC122FEAB80001AA9FC /* PurchaseVC.swift */; };
+		AC0E506E22F6A648001BB555 /* SelectDictionaryTVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC0E506D22F6A648001BB555 /* SelectDictionaryTVC.swift */; };
+		AC11406922BBBD3E00FA55A4 /* LearningTimer.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC11406822BBBD3E00FA55A4 /* LearningTimer.swift */; };
+		AC11406B22BD69CF00FA55A4 /* ResultView.xib in Resources */ = {isa = PBXBuildFile; fileRef = AC11406A22BD69CF00FA55A4 /* ResultView.xib */; };
+		AC11406D22BD69E300FA55A4 /* ResultView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC11406C22BD69E300FA55A4 /* ResultView.swift */; };
+		AC11406F22BD776200FA55A4 /* TimeConverter.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC11406E22BD776200FA55A4 /* TimeConverter.swift */; };
+		AC12CA0122EBE89400F32B78 /* EditVocaInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC12CA0022EBE89400F32B78 /* EditVocaInfo.swift */; };
+		AC12CA0422EDD25000F32B78 /* EditVocaWord.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC12CA0322EDD25000F32B78 /* EditVocaWord.swift */; };
+		AC13FE0B22912B4B0095F6A1 /* RealmController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC13FE0A22912B4B0095F6A1 /* RealmController.swift */; };
+		AC13FE0D229131F40095F6A1 /* Bean.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC13FE0C229131F40095F6A1 /* Bean.swift */; };
+		AC13FE102292D7330095F6A1 /* DateConverter.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC13FE0F2292D7330095F6A1 /* DateConverter.swift */; };
+		AC15B2D422E8226A0094F689 /* ForExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC15B2D322E8226A0094F689 /* ForExtension.swift */; };
+		AC168AB622AE5707000E062B /* VocaInfoVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC168AB522AE5707000E062B /* VocaInfoVC.swift */; };
+		AC168AB922AFC5BD000E062B /* SampleData.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC168AB822AFC5BD000E062B /* SampleData.swift */; };
+		AC1AD4DF22F6698A009E9766 /* Language.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC1AD4DE22F6698A009E9766 /* Language.swift */; };
+		AC204F3E22FB1757001F4BA1 /* BasicDictionarySelectTVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC204F3D22FB1757001F4BA1 /* BasicDictionarySelectTVC.swift */; };
+		AC204F4622FB1ABA001F4BA1 /* BasicCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC204F4422FB1ABA001F4BA1 /* BasicCell.swift */; };
+		AC204F4722FB1ABA001F4BA1 /* BasicCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = AC204F4522FB1ABA001F4BA1 /* BasicCell.xib */; };
+		AC22639C2295DE25008646F4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AC22639A2295D873008646F4 /* Assets.xcassets */; };
+		AC260B272312040C00799ABA /* SpecialLocalizer.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC260B262312040C00799ABA /* SpecialLocalizer.swift */; };
+		AC2A708E2311CB450033B8FD /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = AC2A70902311CB450033B8FD /* Localizable.strings */; };
+		AC2E918D230970E1007827A1 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = AC2E918C230970E1007827A1 /* GoogleService-Info.plist */; };
+		AC43F01522B39D7E00FF8933 /* XibView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC43F01422B39D7E00FF8933 /* XibView.swift */; };
+		AC45CBFB229E152200A0384A /* WordFormVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC45CBFA229E152200A0384A /* WordFormVC.swift */; };
+		AC4EA09922AA57FC00739A3B /* VocaDetailPageVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC4EA09822AA57FC00739A3B /* VocaDetailPageVC.swift */; };
+		AC5690082295EC2C00585243 /* NewVocaVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC5690072295EC2C00585243 /* NewVocaVC.swift */; };
+		AC5A82C322B4F1FE00881D9E /* LearningVoca.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC5A82C222B4F1FE00881D9E /* LearningVoca.swift */; };
+		AC5D38B0231F8C3B008E0AD0 /* JSONConverter.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC5D38AF231F8C3B008E0AD0 /* JSONConverter.swift */; };
+		AC5D38B2231F93E9008E0AD0 /* ShareVoca.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC5D38B1231F93E9008E0AD0 /* ShareVoca.swift */; };
+		AC6DEEF3230978C80056C721 /* LoginVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC6DEEF2230978C80056C721 /* LoginVC.swift */; };
+		AC8E4DB52314615900059C52 /* RandomEmoticon.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC8E4DB42314615900059C52 /* RandomEmoticon.swift */; };
+		AC989CBC22A6561500F29422 /* WordListlVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC989CBB22A6561500F29422 /* WordListlVC.swift */; };
+		AC9AEC5C22D52CDA0007289C /* PermissionController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC9AEC5B22D52CDA0007289C /* PermissionController.swift */; };
+		AC9AEC5E22D534390007289C /* AlertController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC9AEC5D22D534390007289C /* AlertController.swift */; };
+		AC9AEC6022D537600007289C /* EbbinghausNotifcation.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC9AEC5F22D537600007289C /* EbbinghausNotifcation.swift */; };
+		AC9AEC6422D5B0F90007289C /* DictionaryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC9AEC6322D5B0F90007289C /* DictionaryView.swift */; };
+		AC9AEC6622D5B33D0007289C /* WebKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AC9AEC6522D5B33D0007289C /* WebKit.framework */; };
+		ACACC3E42295CC77009CAEE4 /* MyInfoVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACACC3E32295CC77009CAEE4 /* MyInfoVC.swift */; };
+		ACACC3E62295CE19009CAEE4 /* TabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACACC3E52295CE19009CAEE4 /* TabBarController.swift */; };
+		ACACC3E82295CE66009CAEE4 /* SettingVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACACC3E72295CE66009CAEE4 /* SettingVC.swift */; };
+		ACB07F7422F7DD88008FFA6E /* SelectLanguageForDictionaryTVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACB07F7322F7DD88008FFA6E /* SelectLanguageForDictionaryTVC.swift */; };
+		ACB07F7622F7E32F008FFA6E /* DictionarySettingTVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACB07F7522F7E32F008FFA6E /* DictionarySettingTVC.swift */; };
+		ACC5C96522F9248700A9DF21 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ACC5C96422F9248700A9DF21 /* StoreKit.framework */; };
+		ACC6BBB6229C7E200029427D /* TTSData.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACC6BBB5229C7E200029427D /* TTSData.swift */; };
+		ACD02109228D47E90089969E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACD02108228D47E90089969E /* AppDelegate.swift */; };
+		ACD0210B228D47E90089969E /* VocaListVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACD0210A228D47E90089969E /* VocaListVC.swift */; };
+		ACD0210E228D47E90089969E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ACD0210C228D47E90089969E /* Main.storyboard */; };
+		ACD02113228D47EB0089969E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ACD02111228D47EB0089969E /* LaunchScreen.storyboard */; };
+		ACD5BE322299AE7500CB97F2 /* TTSService.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACD5BE312299AE7500CB97F2 /* TTSService.swift */; };
+		ACD85ED722B2481300652F45 /* PresentWordView.xib in Resources */ = {isa = PBXBuildFile; fileRef = ACD85ED622B2481300652F45 /* PresentWordView.xib */; };
+		ACD85ED922B2487300652F45 /* PresentWordView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACD85ED822B2487300652F45 /* PresentWordView.swift */; };
+		ACD85EDB22B24CA000652F45 /* LearningVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACD85EDA22B24CA000652F45 /* LearningVC.swift */; };
+		ACD85EDD22B26BE800652F45 /* MultipleChoiceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACD85EDC22B26BE800652F45 /* MultipleChoiceView.swift */; };
+		ACD85EDF22B26CA600652F45 /* MultipleChoiceView.xib in Resources */ = {isa = PBXBuildFile; fileRef = ACD85EDE22B26CA600652F45 /* MultipleChoiceView.xib */; };
+		ACDA146A2308BCA500C56A03 /* HausDAO.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACDA14692308BCA500C56A03 /* HausDAO.swift */; };
+		ACFE139D22A4EE37005BFD51 /* EbbinghausTime.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACFE139C22A4EE37005BFD51 /* EbbinghausTime.swift */; };
+		ACFE13A122A5FE3C005BFD51 /* PreviewVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACFE13A022A5FE3C005BFD51 /* PreviewVC.swift */; };
+		ACFE13A322A5FE9F005BFD51 /* SelectLanguageVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACFE13A222A5FE9F005BFD51 /* SelectLanguageVC.swift */; };
+		ACFE13A522A5FED3005BFD51 /* SelectWordCountVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACFE13A422A5FED3005BFD51 /* SelectWordCountVC.swift */; };
+		F9CB90E06D9B121E605DE5E0 /* Pods_TTS_Voca.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 97C03EFBF33E30AAB1A13F86 /* Pods_TTS_Voca.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		20816FD1FBDBB4179B4FACFF /* Pods-TTS Voca.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TTS Voca.debug.xcconfig"; path = "Pods/Target Support Files/Pods-TTS Voca/Pods-TTS Voca.debug.xcconfig"; sourceTree = "<group>"; };
+		97C03EFBF33E30AAB1A13F86 /* Pods_TTS_Voca.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TTS_Voca.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		AC006FD622A26D4800802BE3 /* TagPalette.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TagPalette.swift; sourceTree = "<group>"; };
+		AC0715BB22B27CE20087D599 /* ShortAnswerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShortAnswerView.swift; sourceTree = "<group>"; };
+		AC0715BD22B27D4D0087D599 /* ShortAnswerView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ShortAnswerView.xib; sourceTree = "<group>"; };
+		AC072D2F22B68E40005BF81E /* RandomAnswer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RandomAnswer.swift; sourceTree = "<group>"; };
+		AC0ACEC122FEAB80001AA9FC /* PurchaseVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PurchaseVC.swift; sourceTree = "<group>"; };
+		AC0C439F231767FF00D37F5A /* TTS Voca.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "TTS Voca.entitlements"; sourceTree = "<group>"; };
+		AC0E506D22F6A648001BB555 /* SelectDictionaryTVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectDictionaryTVC.swift; sourceTree = "<group>"; };
+		AC11406822BBBD3E00FA55A4 /* LearningTimer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearningTimer.swift; sourceTree = "<group>"; };
+		AC11406A22BD69CF00FA55A4 /* ResultView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ResultView.xib; sourceTree = "<group>"; };
+		AC11406C22BD69E300FA55A4 /* ResultView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultView.swift; sourceTree = "<group>"; };
+		AC11406E22BD776200FA55A4 /* TimeConverter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimeConverter.swift; sourceTree = "<group>"; };
+		AC12CA0022EBE89400F32B78 /* EditVocaInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditVocaInfo.swift; sourceTree = "<group>"; };
+		AC12CA0322EDD25000F32B78 /* EditVocaWord.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditVocaWord.swift; sourceTree = "<group>"; };
+		AC13FE0A22912B4B0095F6A1 /* RealmController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RealmController.swift; sourceTree = "<group>"; };
+		AC13FE0C229131F40095F6A1 /* Bean.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bean.swift; sourceTree = "<group>"; };
+		AC13FE0F2292D7330095F6A1 /* DateConverter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateConverter.swift; sourceTree = "<group>"; };
+		AC15B2D322E8226A0094F689 /* ForExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForExtension.swift; sourceTree = "<group>"; };
+		AC168AB522AE5707000E062B /* VocaInfoVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VocaInfoVC.swift; sourceTree = "<group>"; };
+		AC168AB822AFC5BD000E062B /* SampleData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SampleData.swift; sourceTree = "<group>"; };
+		AC1AD4DE22F6698A009E9766 /* Language.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Language.swift; sourceTree = "<group>"; };
+		AC204F3D22FB1757001F4BA1 /* BasicDictionarySelectTVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasicDictionarySelectTVC.swift; sourceTree = "<group>"; };
+		AC204F4422FB1ABA001F4BA1 /* BasicCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasicCell.swift; sourceTree = "<group>"; };
+		AC204F4522FB1ABA001F4BA1 /* BasicCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = BasicCell.xib; sourceTree = "<group>"; };
+		AC22639A2295D873008646F4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = "/Users/clcell1646/Library/Autosave Information/TTS Voca/Assets.xcassets"; sourceTree = "<absolute>"; };
+		AC260B262312040C00799ABA /* SpecialLocalizer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpecialLocalizer.swift; sourceTree = "<group>"; };
+		AC2A708C2311CB2E0033B8FD /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Main.strings; sourceTree = "<group>"; };
+		AC2A708D2311CB2E0033B8FD /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		AC2A708F2311CB450033B8FD /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		AC2A70912311CB580033B8FD /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/Main.strings; sourceTree = "<group>"; };
+		AC2A70922311CB580033B8FD /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		AC2A70932311CB580033B8FD /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/Localizable.strings; sourceTree = "<group>"; };
+		AC2A70942311CB800033B8FD /* ko */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ko; path = ko.lproj/Main.strings; sourceTree = "<group>"; };
+		AC2A70952311CB800033B8FD /* ko */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ko; path = ko.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		AC2A70962311CB800033B8FD /* ko */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ko; path = ko.lproj/Localizable.strings; sourceTree = "<group>"; };
+		AC2E918C230970E1007827A1 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		AC43F01422B39D7E00FF8933 /* XibView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XibView.swift; sourceTree = "<group>"; };
+		AC45CBFA229E152200A0384A /* WordFormVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordFormVC.swift; sourceTree = "<group>"; };
+		AC4EA09822AA57FC00739A3B /* VocaDetailPageVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VocaDetailPageVC.swift; sourceTree = "<group>"; };
+		AC5690072295EC2C00585243 /* NewVocaVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewVocaVC.swift; sourceTree = "<group>"; };
+		AC5A82C222B4F1FE00881D9E /* LearningVoca.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearningVoca.swift; sourceTree = "<group>"; };
+		AC5D38AF231F8C3B008E0AD0 /* JSONConverter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JSONConverter.swift; sourceTree = "<group>"; };
+		AC5D38B1231F93E9008E0AD0 /* ShareVoca.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShareVoca.swift; sourceTree = "<group>"; };
+		AC6DEEF2230978C80056C721 /* LoginVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginVC.swift; sourceTree = "<group>"; };
+		AC8E4DB42314615900059C52 /* RandomEmoticon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RandomEmoticon.swift; sourceTree = "<group>"; };
+		AC989CBB22A6561500F29422 /* WordListlVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordListlVC.swift; sourceTree = "<group>"; };
+		AC9AEC5B22D52CDA0007289C /* PermissionController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PermissionController.swift; sourceTree = "<group>"; };
+		AC9AEC5D22D534390007289C /* AlertController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertController.swift; sourceTree = "<group>"; };
+		AC9AEC5F22D537600007289C /* EbbinghausNotifcation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EbbinghausNotifcation.swift; sourceTree = "<group>"; };
+		AC9AEC6322D5B0F90007289C /* DictionaryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DictionaryView.swift; sourceTree = "<group>"; };
+		AC9AEC6522D5B33D0007289C /* WebKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebKit.framework; path = System/Library/Frameworks/WebKit.framework; sourceTree = SDKROOT; };
+		ACACC3E32295CC77009CAEE4 /* MyInfoVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyInfoVC.swift; sourceTree = "<group>"; };
+		ACACC3E52295CE19009CAEE4 /* TabBarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarController.swift; sourceTree = "<group>"; };
+		ACACC3E72295CE66009CAEE4 /* SettingVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingVC.swift; sourceTree = "<group>"; };
+		ACB07F7322F7DD88008FFA6E /* SelectLanguageForDictionaryTVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectLanguageForDictionaryTVC.swift; sourceTree = "<group>"; };
+		ACB07F7522F7E32F008FFA6E /* DictionarySettingTVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DictionarySettingTVC.swift; sourceTree = "<group>"; };
+		ACC5C96422F9248700A9DF21 /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
+		ACC6BBB5229C7E200029427D /* TTSData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TTSData.swift; sourceTree = "<group>"; };
+		ACD02105228D47E90089969E /* TTS Voca.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "TTS Voca.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		ACD02108228D47E90089969E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		ACD0210A228D47E90089969E /* VocaListVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VocaListVC.swift; sourceTree = "<group>"; };
+		ACD0210D228D47E90089969E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		ACD02112228D47EB0089969E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		ACD02114228D47EB0089969E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ACD5BE312299AE7500CB97F2 /* TTSService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TTSService.swift; sourceTree = "<group>"; };
+		ACD85ED622B2481300652F45 /* PresentWordView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = PresentWordView.xib; sourceTree = "<group>"; };
+		ACD85ED822B2487300652F45 /* PresentWordView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PresentWordView.swift; sourceTree = "<group>"; };
+		ACD85EDA22B24CA000652F45 /* LearningVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearningVC.swift; sourceTree = "<group>"; };
+		ACD85EDC22B26BE800652F45 /* MultipleChoiceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultipleChoiceView.swift; sourceTree = "<group>"; };
+		ACD85EDE22B26CA600652F45 /* MultipleChoiceView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MultipleChoiceView.xib; sourceTree = "<group>"; };
+		ACDA14692308BCA500C56A03 /* HausDAO.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HausDAO.swift; sourceTree = "<group>"; };
+		ACFE139C22A4EE37005BFD51 /* EbbinghausTime.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EbbinghausTime.swift; sourceTree = "<group>"; };
+		ACFE13A022A5FE3C005BFD51 /* PreviewVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreviewVC.swift; sourceTree = "<group>"; };
+		ACFE13A222A5FE9F005BFD51 /* SelectLanguageVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectLanguageVC.swift; sourceTree = "<group>"; };
+		ACFE13A422A5FED3005BFD51 /* SelectWordCountVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectWordCountVC.swift; sourceTree = "<group>"; };
+		F3B5186D2CE5953AD0E406BA /* Pods-TTS Voca.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TTS Voca.release.xcconfig"; path = "Pods/Target Support Files/Pods-TTS Voca/Pods-TTS Voca.release.xcconfig"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		ACD02102228D47E90089969E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				ACC5C96522F9248700A9DF21 /* StoreKit.framework in Frameworks */,
+				AC9AEC6622D5B33D0007289C /* WebKit.framework in Frameworks */,
+				F9CB90E06D9B121E605DE5E0 /* Pods_TTS_Voca.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		AC07314522A7BD9100D4E139 /* LearnVoca */ = {
+			isa = PBXGroup;
+			children = (
+				ACD85EDA22B24CA000652F45 /* LearningVC.swift */,
+				ACD85ED822B2487300652F45 /* PresentWordView.swift */,
+				ACD85EDC22B26BE800652F45 /* MultipleChoiceView.swift */,
+				AC0715BB22B27CE20087D599 /* ShortAnswerView.swift */,
+				AC11406C22BD69E300FA55A4 /* ResultView.swift */,
+				AC9AEC6322D5B0F90007289C /* DictionaryView.swift */,
+				ACD85ED622B2481300652F45 /* PresentWordView.xib */,
+				ACD85EDE22B26CA600652F45 /* MultipleChoiceView.xib */,
+				AC0715BD22B27D4D0087D599 /* ShortAnswerView.xib */,
+				AC11406A22BD69CF00FA55A4 /* ResultView.xib */,
+				AC43F01422B39D7E00FF8933 /* XibView.swift */,
+			);
+			path = LearnVoca;
+			sourceTree = "<group>";
+		};
+		AC12CA0222EDD23900F32B78 /* EditVoca */ = {
+			isa = PBXGroup;
+			children = (
+				AC12CA0022EBE89400F32B78 /* EditVocaInfo.swift */,
+				AC12CA0322EDD25000F32B78 /* EditVocaWord.swift */,
+			);
+			path = EditVoca;
+			sourceTree = "<group>";
+		};
+		AC13FE07229129300095F6A1 /* VeiwController */ = {
+			isa = PBXGroup;
+			children = (
+				AC168AB722AE63D4000E062B /* TabBar */,
+				AC204F3F22FB17BC001F4BA1 /* XIB */,
+				ACACC3E02295CC1E009CAEE4 /* FristTab */,
+				ACACC3E12295CC26009CAEE4 /* SecondTab */,
+				ACACC3E22295CC2C009CAEE4 /* ThirdTab */,
+			);
+			path = VeiwController;
+			sourceTree = "<group>";
+		};
+		AC13FE0922912B100095F6A1 /* DAO */ = {
+			isa = PBXGroup;
+			children = (
+				AC13FE0A22912B4B0095F6A1 /* RealmController.swift */,
+				AC13FE0C229131F40095F6A1 /* Bean.swift */,
+				ACDA14692308BCA500C56A03 /* HausDAO.swift */,
+			);
+			path = DAO;
+			sourceTree = "<group>";
+		};
+		AC13FE0E2292D7180095F6A1 /* Tool */ = {
+			isa = PBXGroup;
+			children = (
+				AC8E4DB32313AB1000059C52 /* Else */,
+				AC8E4DB22313AAE400059C52 /* Ebbinghaus */,
+				AC8E4DB12313AAD000059C52 /* Converter */,
+				AC8E4DB02313AAC400059C52 /* TTS */,
+			);
+			path = Tool;
+			sourceTree = "<group>";
+		};
+		AC168AB722AE63D4000E062B /* TabBar */ = {
+			isa = PBXGroup;
+			children = (
+				ACACC3E52295CE19009CAEE4 /* TabBarController.swift */,
+			);
+			path = TabBar;
+			sourceTree = "<group>";
+		};
+		AC204F3F22FB17BC001F4BA1 /* XIB */ = {
+			isa = PBXGroup;
+			children = (
+				AC204F4422FB1ABA001F4BA1 /* BasicCell.swift */,
+				AC204F4522FB1ABA001F4BA1 /* BasicCell.xib */,
+			);
+			path = XIB;
+			sourceTree = "<group>";
+		};
+		AC4EA09A22AA6A1A00739A3B /* ShowVocaDetail */ = {
+			isa = PBXGroup;
+			children = (
+				AC4EA09822AA57FC00739A3B /* VocaDetailPageVC.swift */,
+				AC989CBB22A6561500F29422 /* WordListlVC.swift */,
+				AC168AB522AE5707000E062B /* VocaInfoVC.swift */,
+			);
+			path = ShowVocaDetail;
+			sourceTree = "<group>";
+		};
+		AC8E4DB02313AAC400059C52 /* TTS */ = {
+			isa = PBXGroup;
+			children = (
+				ACD5BE312299AE7500CB97F2 /* TTSService.swift */,
+				ACC6BBB5229C7E200029427D /* TTSData.swift */,
+			);
+			path = TTS;
+			sourceTree = "<group>";
+		};
+		AC8E4DB12313AAD000059C52 /* Converter */ = {
+			isa = PBXGroup;
+			children = (
+				AC13FE0F2292D7330095F6A1 /* DateConverter.swift */,
+				AC11406E22BD776200FA55A4 /* TimeConverter.swift */,
+				AC5D38AF231F8C3B008E0AD0 /* JSONConverter.swift */,
+			);
+			path = Converter;
+			sourceTree = "<group>";
+		};
+		AC8E4DB22313AAE400059C52 /* Ebbinghaus */ = {
+			isa = PBXGroup;
+			children = (
+				ACFE139C22A4EE37005BFD51 /* EbbinghausTime.swift */,
+				AC9AEC5F22D537600007289C /* EbbinghausNotifcation.swift */,
+			);
+			path = Ebbinghaus;
+			sourceTree = "<group>";
+		};
+		AC8E4DB32313AB1000059C52 /* Else */ = {
+			isa = PBXGroup;
+			children = (
+				AC006FD622A26D4800802BE3 /* TagPalette.swift */,
+				AC168AB822AFC5BD000E062B /* SampleData.swift */,
+				AC072D2F22B68E40005BF81E /* RandomAnswer.swift */,
+				AC5A82C222B4F1FE00881D9E /* LearningVoca.swift */,
+				AC11406822BBBD3E00FA55A4 /* LearningTimer.swift */,
+				AC9AEC5B22D52CDA0007289C /* PermissionController.swift */,
+				AC9AEC5D22D534390007289C /* AlertController.swift */,
+				AC15B2D322E8226A0094F689 /* ForExtension.swift */,
+				AC1AD4DE22F6698A009E9766 /* Language.swift */,
+				AC260B262312040C00799ABA /* SpecialLocalizer.swift */,
+				AC8E4DB42314615900059C52 /* RandomEmoticon.swift */,
+				AC5D38B1231F93E9008E0AD0 /* ShareVoca.swift */,
+			);
+			path = Else;
+			sourceTree = "<group>";
+		};
+		AC989CB922A655C300F29422 /* NewVoca */ = {
+			isa = PBXGroup;
+			children = (
+				AC5690072295EC2C00585243 /* NewVocaVC.swift */,
+				AC45CBFA229E152200A0384A /* WordFormVC.swift */,
+				ACFE13A022A5FE3C005BFD51 /* PreviewVC.swift */,
+				ACFE13A222A5FE9F005BFD51 /* SelectLanguageVC.swift */,
+				ACFE13A422A5FED3005BFD51 /* SelectWordCountVC.swift */,
+			);
+			path = NewVoca;
+			sourceTree = "<group>";
+		};
+		AC989CBA22A655EB00F29422 /* MainVocaList */ = {
+			isa = PBXGroup;
+			children = (
+				ACD0210A228D47E90089969E /* VocaListVC.swift */,
+			);
+			path = MainVocaList;
+			sourceTree = "<group>";
+		};
+		ACACC3E02295CC1E009CAEE4 /* FristTab */ = {
+			isa = PBXGroup;
+			children = (
+				AC989CBA22A655EB00F29422 /* MainVocaList */,
+				AC4EA09A22AA6A1A00739A3B /* ShowVocaDetail */,
+				AC12CA0222EDD23900F32B78 /* EditVoca */,
+				AC989CB922A655C300F29422 /* NewVoca */,
+				AC07314522A7BD9100D4E139 /* LearnVoca */,
+			);
+			path = FristTab;
+			sourceTree = "<group>";
+		};
+		ACACC3E12295CC26009CAEE4 /* SecondTab */ = {
+			isa = PBXGroup;
+			children = (
+				ACACC3E32295CC77009CAEE4 /* MyInfoVC.swift */,
+			);
+			path = SecondTab;
+			sourceTree = "<group>";
+		};
+		ACACC3E22295CC2C009CAEE4 /* ThirdTab */ = {
+			isa = PBXGroup;
+			children = (
+				ACACC3E72295CE66009CAEE4 /* SettingVC.swift */,
+				AC0ACEC122FEAB80001AA9FC /* PurchaseVC.swift */,
+				AC6DEEF2230978C80056C721 /* LoginVC.swift */,
+				AC204F3D22FB1757001F4BA1 /* BasicDictionarySelectTVC.swift */,
+				ACB07F7322F7DD88008FFA6E /* SelectLanguageForDictionaryTVC.swift */,
+				AC0E506D22F6A648001BB555 /* SelectDictionaryTVC.swift */,
+				ACB07F7522F7E32F008FFA6E /* DictionarySettingTVC.swift */,
+			);
+			path = ThirdTab;
+			sourceTree = "<group>";
+		};
+		ACD020FC228D47E90089969E = {
+			isa = PBXGroup;
+			children = (
+				AC22639A2295D873008646F4 /* Assets.xcassets */,
+				ACD02107228D47E90089969E /* TTS Voca */,
+				ACD02106228D47E90089969E /* Products */,
+				EC884D5AA93C03FE90F53AD3 /* Pods */,
+				EE63EFCC4FF55C21A07B1DFE /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		ACD02106228D47E90089969E /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				ACD02105228D47E90089969E /* TTS Voca.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		ACD02107228D47E90089969E /* TTS Voca */ = {
+			isa = PBXGroup;
+			children = (
+				AC0C439F231767FF00D37F5A /* TTS Voca.entitlements */,
+				AC13FE0E2292D7180095F6A1 /* Tool */,
+				AC13FE0922912B100095F6A1 /* DAO */,
+				AC13FE07229129300095F6A1 /* VeiwController */,
+				ACD02108228D47E90089969E /* AppDelegate.swift */,
+				ACD0210C228D47E90089969E /* Main.storyboard */,
+				ACD02111228D47EB0089969E /* LaunchScreen.storyboard */,
+				ACD02114228D47EB0089969E /* Info.plist */,
+				AC2E918C230970E1007827A1 /* GoogleService-Info.plist */,
+				AC2A70902311CB450033B8FD /* Localizable.strings */,
+			);
+			path = "TTS Voca";
+			sourceTree = "<group>";
+		};
+		EC884D5AA93C03FE90F53AD3 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				20816FD1FBDBB4179B4FACFF /* Pods-TTS Voca.debug.xcconfig */,
+				F3B5186D2CE5953AD0E406BA /* Pods-TTS Voca.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		EE63EFCC4FF55C21A07B1DFE /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				ACC5C96422F9248700A9DF21 /* StoreKit.framework */,
+				AC9AEC6522D5B33D0007289C /* WebKit.framework */,
+				97C03EFBF33E30AAB1A13F86 /* Pods_TTS_Voca.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		ACD02104228D47E90089969E /* TTS Voca */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = ACD02117228D47EB0089969E /* Build configuration list for PBXNativeTarget "TTS Voca" */;
+			buildPhases = (
+				DFA43922898345A84161CB0E /* [CP] Check Pods Manifest.lock */,
+				ACD02101228D47E90089969E /* Sources */,
+				ACD02102228D47E90089969E /* Frameworks */,
+				ACD02103228D47E90089969E /* Resources */,
+				C35FE2B9347E5E23AB066A6B /* [CP] Embed Pods Frameworks */,
+				AA12045FC3A29E6CE0F2F885 /* [CP] Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "TTS Voca";
+			productName = "TTS Voca";
+			productReference = ACD02105228D47E90089969E /* TTS Voca.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		ACD020FD228D47E90089969E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1020;
+				LastUpgradeCheck = 1020;
+				ORGANIZATIONNAME = "Jihwan Jung";
+				TargetAttributes = {
+					ACD02104228D47E90089969E = {
+						CreatedOnToolsVersion = 10.2.1;
+						SystemCapabilities = {
+							com.apple.InAppPurchase = {
+								enabled = 1;
+							};
+							com.apple.Keychain = {
+								enabled = 1;
+							};
+						};
+					};
+				};
+			};
+			buildConfigurationList = ACD02100228D47E90089969E /* Build configuration list for PBXProject "TTS Voca" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				Base,
+				en,
+				ja,
+				ko,
+			);
+			mainGroup = ACD020FC228D47E90089969E;
+			productRefGroup = ACD02106228D47E90089969E /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				ACD02104228D47E90089969E /* TTS Voca */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		ACD02103228D47E90089969E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				ACD85ED722B2481300652F45 /* PresentWordView.xib in Resources */,
+				ACD02113228D47EB0089969E /* LaunchScreen.storyboard in Resources */,
+				AC2E918D230970E1007827A1 /* GoogleService-Info.plist in Resources */,
+				ACD85EDF22B26CA600652F45 /* MultipleChoiceView.xib in Resources */,
+				AC0715BE22B27D4D0087D599 /* ShortAnswerView.xib in Resources */,
+				AC2A708E2311CB450033B8FD /* Localizable.strings in Resources */,
+				AC22639C2295DE25008646F4 /* Assets.xcassets in Resources */,
+				ACD0210E228D47E90089969E /* Main.storyboard in Resources */,
+				AC204F4722FB1ABA001F4BA1 /* BasicCell.xib in Resources */,
+				AC11406B22BD69CF00FA55A4 /* ResultView.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		AA12045FC3A29E6CE0F2F885 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-TTS Voca/Pods-TTS Voca-resources.sh",
+				"${PODS_ROOT}/GoogleSignIn/Resources/GoogleSignIn.bundle",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/GoogleSignIn.bundle",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-TTS Voca/Pods-TTS Voca-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		C35FE2B9347E5E23AB066A6B /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-TTS Voca/Pods-TTS Voca-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/AppAuth/AppAuth.framework",
+				"${BUILT_PRODUCTS_DIR}/FBSDKCoreKit/FBSDKCoreKit.framework",
+				"${BUILT_PRODUCTS_DIR}/FBSDKLoginKit/FBSDKLoginKit.framework",
+				"${BUILT_PRODUCTS_DIR}/FacebookCore/FacebookCore.framework",
+				"${BUILT_PRODUCTS_DIR}/FacebookLogin/FacebookLogin.framework",
+				"${BUILT_PRODUCTS_DIR}/GTMAppAuth/GTMAppAuth.framework",
+				"${BUILT_PRODUCTS_DIR}/GTMSessionFetcher/GTMSessionFetcher.framework",
+				"${BUILT_PRODUCTS_DIR}/Realm/Realm.framework",
+				"${BUILT_PRODUCTS_DIR}/RealmSwift/RealmSwift.framework",
+				"${BUILT_PRODUCTS_DIR}/TAKUUID/TAKUUID.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/AppAuth.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FBSDKCoreKit.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FBSDKLoginKit.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FacebookCore.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FacebookLogin.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GTMAppAuth.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GTMSessionFetcher.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Realm.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RealmSwift.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/TAKUUID.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-TTS Voca/Pods-TTS Voca-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		DFA43922898345A84161CB0E /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-TTS Voca-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		ACD02101228D47E90089969E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AC11406F22BD776200FA55A4 /* TimeConverter.swift in Sources */,
+				AC45CBFB229E152200A0384A /* WordFormVC.swift in Sources */,
+				AC15B2D422E8226A0094F689 /* ForExtension.swift in Sources */,
+				AC5D38B2231F93E9008E0AD0 /* ShareVoca.swift in Sources */,
+				AC9AEC5C22D52CDA0007289C /* PermissionController.swift in Sources */,
+				AC168AB922AFC5BD000E062B /* SampleData.swift in Sources */,
+				AC0715BC22B27CE20087D599 /* ShortAnswerView.swift in Sources */,
+				ACACC3E42295CC77009CAEE4 /* MyInfoVC.swift in Sources */,
+				AC5A82C322B4F1FE00881D9E /* LearningVoca.swift in Sources */,
+				AC204F3E22FB1757001F4BA1 /* BasicDictionarySelectTVC.swift in Sources */,
+				ACACC3E82295CE66009CAEE4 /* SettingVC.swift in Sources */,
+				AC13FE0B22912B4B0095F6A1 /* RealmController.swift in Sources */,
+				ACD85EDD22B26BE800652F45 /* MultipleChoiceView.swift in Sources */,
+				AC006FD722A26D4800802BE3 /* TagPalette.swift in Sources */,
+				AC12CA0422EDD25000F32B78 /* EditVocaWord.swift in Sources */,
+				AC5D38B0231F8C3B008E0AD0 /* JSONConverter.swift in Sources */,
+				AC072D3022B68E40005BF81E /* RandomAnswer.swift in Sources */,
+				ACB07F7622F7E32F008FFA6E /* DictionarySettingTVC.swift in Sources */,
+				AC168AB622AE5707000E062B /* VocaInfoVC.swift in Sources */,
+				ACC6BBB6229C7E200029427D /* TTSData.swift in Sources */,
+				AC9AEC6422D5B0F90007289C /* DictionaryView.swift in Sources */,
+				ACFE139D22A4EE37005BFD51 /* EbbinghausTime.swift in Sources */,
+				AC989CBC22A6561500F29422 /* WordListlVC.swift in Sources */,
+				AC8E4DB52314615900059C52 /* RandomEmoticon.swift in Sources */,
+				ACFE13A122A5FE3C005BFD51 /* PreviewVC.swift in Sources */,
+				ACDA146A2308BCA500C56A03 /* HausDAO.swift in Sources */,
+				AC1AD4DF22F6698A009E9766 /* Language.swift in Sources */,
+				AC11406922BBBD3E00FA55A4 /* LearningTimer.swift in Sources */,
+				AC6DEEF3230978C80056C721 /* LoginVC.swift in Sources */,
+				ACD0210B228D47E90089969E /* VocaListVC.swift in Sources */,
+				AC9AEC5E22D534390007289C /* AlertController.swift in Sources */,
+				AC11406D22BD69E300FA55A4 /* ResultView.swift in Sources */,
+				ACD02109228D47E90089969E /* AppDelegate.swift in Sources */,
+				AC204F4622FB1ABA001F4BA1 /* BasicCell.swift in Sources */,
+				ACD5BE322299AE7500CB97F2 /* TTSService.swift in Sources */,
+				AC13FE102292D7330095F6A1 /* DateConverter.swift in Sources */,
+				ACB07F7422F7DD88008FFA6E /* SelectLanguageForDictionaryTVC.swift in Sources */,
+				ACFE13A522A5FED3005BFD51 /* SelectWordCountVC.swift in Sources */,
+				ACD85EDB22B24CA000652F45 /* LearningVC.swift in Sources */,
+				AC0E506E22F6A648001BB555 /* SelectDictionaryTVC.swift in Sources */,
+				AC4EA09922AA57FC00739A3B /* VocaDetailPageVC.swift in Sources */,
+				ACD85ED922B2487300652F45 /* PresentWordView.swift in Sources */,
+				AC260B272312040C00799ABA /* SpecialLocalizer.swift in Sources */,
+				AC5690082295EC2C00585243 /* NewVocaVC.swift in Sources */,
+				AC0ACEC222FEAB80001AA9FC /* PurchaseVC.swift in Sources */,
+				AC43F01522B39D7E00FF8933 /* XibView.swift in Sources */,
+				ACACC3E62295CE19009CAEE4 /* TabBarController.swift in Sources */,
+				ACFE13A322A5FE9F005BFD51 /* SelectLanguageVC.swift in Sources */,
+				AC9AEC6022D537600007289C /* EbbinghausNotifcation.swift in Sources */,
+				AC13FE0D229131F40095F6A1 /* Bean.swift in Sources */,
+				AC12CA0122EBE89400F32B78 /* EditVocaInfo.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		AC2A70902311CB450033B8FD /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				AC2A708F2311CB450033B8FD /* en */,
+				AC2A70932311CB580033B8FD /* ja */,
+				AC2A70962311CB800033B8FD /* ko */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
+		ACD0210C228D47E90089969E /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				ACD0210D228D47E90089969E /* Base */,
+				AC2A708C2311CB2E0033B8FD /* en */,
+				AC2A70912311CB580033B8FD /* ja */,
+				AC2A70942311CB800033B8FD /* ko */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		ACD02111228D47EB0089969E /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				ACD02112228D47EB0089969E /* Base */,
+				AC2A708D2311CB2E0033B8FD /* en */,
+				AC2A70922311CB580033B8FD /* ja */,
+				AC2A70952311CB800033B8FD /* ko */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		ACD02115228D47EB0089969E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		ACD02116228D47EB0089969E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		ACD02118228D47EB0089969E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 20816FD1FBDBB4179B4FACFF /* Pods-TTS Voca.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = "TTS Voca/TTS Voca.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 99657C27CQ;
+				INFOPLIST_FILE = "TTS Voca/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 12.2;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "kr.co.cloudvoca.TTS-Voca";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		ACD02119228D47EB0089969E /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = F3B5186D2CE5953AD0E406BA /* Pods-TTS Voca.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = "TTS Voca/TTS Voca.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 99657C27CQ;
+				INFOPLIST_FILE = "TTS Voca/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 12.2;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "kr.co.cloudvoca.TTS-Voca";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		ACD02100228D47E90089969E /* Build configuration list for PBXProject "TTS Voca" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				ACD02115228D47EB0089969E /* Debug */,
+				ACD02116228D47EB0089969E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		ACD02117228D47EB0089969E /* Build configuration list for PBXNativeTarget "TTS Voca" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				ACD02118228D47EB0089969E /* Debug */,
+				ACD02119228D47EB0089969E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = ACD020FD228D47E90089969E /* Project object */;
+}

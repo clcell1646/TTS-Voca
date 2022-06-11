@@ -1,0 +1,510 @@
+
+/* Class = "UIButton"; normalTitle = "단어 추가"; ObjectID = "0s0-Gm-yJP"; */
+"0s0-Gm-yJP.normalTitle" = "단어 추가";
+
+/* Class = "UILabel"; text = "카드 뱃지"; ObjectID = "1u9-NP-qXn"; */
+"1u9-NP-qXn.text" = "카드 뱃지";
+
+/* Class = "UITextView"; text = "TTS란 Text To Speech의 약자로 등록된 단어를 설정한 언어에 따라 소리 내어 발음해주는 기능입니다."; ObjectID = "2RU-cm-cY6"; */
+"2RU-cm-cY6.text" = "TTS란 Text To Speech의 약자로 등록된 단어를 설정한 언어에 따라 소리 내어 발음해주는 기능입니다.";
+
+/* Class = "UILabel"; text = "TTS-Voca"; ObjectID = "2aL-cG-yjH"; */
+"2aL-cG-yjH.text" = "TTS-Voca";
+
+/* Class = "UITableViewSection"; footerTitle = "아이폰의 무음모드를 해제해주세요."; ObjectID = "2pu-eF-Zmj"; */
+"2pu-eF-Zmj.footerTitle" = "아이폰의 무음모드를 해제해주세요.";
+
+/* Class = "UITableViewSection"; headerTitle = "TTS"; ObjectID = "2pu-eF-Zmj"; */
+"2pu-eF-Zmj.headerTitle" = "TTS";
+
+/* Class = "UILabel"; text = "총 학습횟수 : 4회"; ObjectID = "2ra-RA-WVK"; */
+"2ra-RA-WVK.text" = "총 학습횟수 : 4회";
+
+/* Class = "UIBarButtonItem"; title = "취소"; ObjectID = "33m-N1-wh6"; */
+"33m-N1-wh6.title" = "취소";
+
+/* Class = "UILabel"; text = "65"; ObjectID = "36h-kl-IDG"; */
+"36h-kl-IDG.text" = "65";
+
+/* Class = "UITextField"; placeholder = "단어"; ObjectID = "36v-ND-kFC"; */
+"36v-ND-kFC.placeholder" = "단어";
+
+/* Class = "UILabel"; text = "중간"; ObjectID = "42X-7T-bLa"; */
+"42X-7T-bLa.text" = "중간";
+
+/* Class = "UITableViewSection"; headerTitle = "계정"; ObjectID = "4HX-PT-mI0"; */
+"4HX-PT-mI0.headerTitle" = "계정";
+
+/* Class = "UILabel"; text = "주관식 출제"; ObjectID = "5Gl-aO-vSZ"; */
+"5Gl-aO-vSZ.text" = "주관식 출제";
+
+/* Class = "UILabel"; text = "Hermann Ebbinghaus"; ObjectID = "6hC-vd-bIg"; */
+"6hC-vd-bIg.text" = "Hermann Ebbinghaus";
+
+/* Class = "UILabel"; text = "언어"; ObjectID = "6ym-Sf-tDP"; */
+"6ym-Sf-tDP.text" = "언어";
+
+/* Class = "UILabel"; text = "6월 28일"; ObjectID = "76r-b1-suF"; */
+"76r-b1-suF.text" = "6월 28일";
+
+/* Class = "UITableViewSection"; footerTitle = "입력한 Prefix와 Suffix를 이용하여 'study'라는 단어를 검색하는 URL은 위와 같습니다.\n\n링크를 눌러서 제대로 검색 되는지 확인하세요."; ObjectID = "7Av-a4-BIK"; */
+"7Av-a4-BIK.footerTitle" = "입력한 Prefix와 Suffix를 이용하여 'study'라는 단어를 검색하는 URL은 위와 같습니다.\n\n링크를 눌러서 제대로 검색 되는지 확인하세요.";
+
+/* Class = "UITableViewSection"; headerTitle = "Test URL"; ObjectID = "7Av-a4-BIK"; */
+"7Av-a4-BIK.headerTitle" = "Test URL";
+
+/* Class = "UILabel"; text = "Korean (South Korea)"; ObjectID = "7Bh-0s-tuP"; */
+"7Bh-0s-tuP.text" = "Korean (South Korea)";
+
+/* Class = "UILabel"; text = "1번째 단어"; ObjectID = "7ef-pq-Grx"; */
+"7ef-pq-Grx.text" = "1번째 단어";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "8Sv-2j-smD"; */
+"8Sv-2j-smD.title" = "Title";
+
+/* Class = "UILabel"; text = "Haus Level"; ObjectID = "8hG-n9-Mva"; */
+"8hG-n9-Mva.text" = "Haus Level";
+
+/* Class = "UIBarButtonItem"; title = "저장"; ObjectID = "8pL-TH-M84"; */
+"8pL-TH-M84.title" = "저장";
+
+/* Class = "UIBarButtonItem"; title = "취소"; ObjectID = "9O1-Yw-eru"; */
+"9O1-Yw-eru.title" = "취소";
+
+/* Class = "UITableViewSection"; footerTitle = "학습 중에 표시될 사전의 이름입니다."; ObjectID = "9ce-xE-LwP"; */
+"9ce-xE-LwP.footerTitle" = "학습 중에 표시될 사전의 이름입니다.";
+
+/* Class = "UITableViewSection"; headerTitle = "사전 이름"; ObjectID = "9ce-xE-LwP"; */
+"9ce-xE-LwP.headerTitle" = "사전 이름";
+
+/* Class = "UITableViewSection"; footerTitle = "등록할 웹 사전에서 'study'를 검색한 뒤 주소창의 문자열을 그대로 복사해서 붙여 넣으세요."; ObjectID = "AYQ-we-RbI"; */
+"AYQ-we-RbI.footerTitle" = "등록할 웹 사전에서 'study'를 검색한 뒤 주소창의 문자열을 그대로 복사해서 붙여 넣으세요.";
+
+/* Class = "UITableViewSection"; headerTitle = "Prefix, Suffix 자동 입력"; ObjectID = "AYQ-we-RbI"; */
+"AYQ-we-RbI.headerTitle" = "Prefix, Suffix 자동 입력";
+
+/* Class = "UIButton"; normalTitle = "닫 기"; ObjectID = "AuF-hE-cxo"; */
+"AuF-hE-cxo.normalTitle" = "닫 기";
+
+/* Class = "UILabel"; text = "새 단어장"; ObjectID = "B41-1r-xvy"; */
+"B41-1r-xvy.text" = "새 단어장";
+
+/* Class = "UILabel"; text = "단어장 슬롯을 50개 추가합니다,"; ObjectID = "B8q-kh-9kO"; */
+"B8q-kh-9kO.text" = "단어장 슬롯을 50개 추가합니다,";
+
+/* Class = "UILabel"; text = "복습 필요 순"; ObjectID = "BAe-BE-uFP"; */
+"BAe-BE-uFP.text" = "복습 필요 순";
+
+/* Class = "UILabel"; text = "130"; ObjectID = "Bku-Jw-nsY"; */
+"Bku-Jw-nsY.text" = "130";
+
+/* Class = "UILabel"; text = "단어장 슬롯을 150개 추가합니다."; ObjectID = "CAH-Dd-EPN"; */
+"CAH-Dd-EPN.text" = "단어장 슬롯을 150개 추가합니다.";
+
+/* Class = "UIButton"; normalTitle = "단어만 보기"; ObjectID = "CLc-1d-9ug"; */
+"CLc-1d-9ug.normalTitle" = "단어만 보기";
+
+/* Class = "UILabel"; text = "7월 2일"; ObjectID = "DNx-7L-Vrh"; */
+"DNx-7L-Vrh.text" = "7월 2일";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "DlI-31-oD7"; */
+"DlI-31-oD7.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "모두 보기"; ObjectID = "DrL-7Y-Ylc"; */
+"DrL-7Y-Ylc.normalTitle" = "모두 보기";
+
+/* Class = "UILabel"; text = "TTS-Voca"; ObjectID = "Dve-sB-AQK"; */
+"Dve-sB-AQK.text" = "TTS-Voca";
+
+/* Class = "UILabel"; text = "빠름"; ObjectID = "E38-J6-Lg4"; */
+"E38-J6-Lg4.text" = "빠름";
+
+/* Class = "UINavigationItem"; title = "언어"; ObjectID = "EGc-5r-9HD"; */
+"EGc-5r-9HD.title" = "언어";
+
+/* Class = "UILabel"; text = "알림"; ObjectID = "Epy-vz-79i"; */
+"Epy-vz-79i.text" = "알림";
+
+/* Class = "UILabel"; text = "기록 없음"; ObjectID = "FQQ-hE-PAN"; */
+"FQQ-hE-PAN.text" = "기록 없음";
+
+/* Class = "UILabel"; text = "태그 색상"; ObjectID = "FVC-3m-DPk"; */
+"FVC-3m-DPk.text" = "태그 색상";
+
+/* Class = "UINavigationItem"; title = "새 단어장"; ObjectID = "FuR-Zu-L5U"; */
+"FuR-Zu-L5U.title" = "새 단어장";
+
+/* Class = "UINavigationItem"; title = "단어장"; ObjectID = "HOg-Ps-kwv"; */
+"HOg-Ps-kwv.title" = "단어장";
+
+/* Class = "UILabel"; text = "기록 없음"; ObjectID = "Hbi-4p-Ndw"; */
+"Hbi-4p-Ndw.text" = "기록 없음";
+
+/* Class = "UINavigationItem"; title = "단어장 상세"; ObjectID = "IFr-T3-Dd7"; */
+"IFr-T3-Dd7.title" = "단어장 상세";
+
+/* Class = "UIButton"; normalTitle = "뜻만 보기"; ObjectID = "IJQ-om-Doj"; */
+"IJQ-om-Doj.normalTitle" = "뜻만 보기";
+
+/* Class = "UITableViewSection"; footerTitle = "전역 설정된 사전보다 이 사전을 우선시합니다."; ObjectID = "IML-9v-e8Q"; */
+"IML-9v-e8Q.footerTitle" = "전역 설정된 사전보다 이 사전을 우선시합니다.";
+
+/* Class = "UITableViewSection"; headerTitle = "언어별 사전 사용"; ObjectID = "IML-9v-e8Q"; */
+"IML-9v-e8Q.headerTitle" = "언어별 사전 사용";
+
+/* Class = "UILabel"; text = "모두"; ObjectID = "J8E-Ee-FAw"; */
+"J8E-Ee-FAw.text" = "모두";
+
+/* Class = "UILabel"; text = "6월 28일"; ObjectID = "JJV-ju-2T4"; */
+"JJV-ju-2T4.text" = "6월 28일";
+
+/* Class = "UILabel"; text = "40"; ObjectID = "Jxw-QX-oo6"; */
+"Jxw-QX-oo6.text" = "40";
+
+/* Class = "UILabel"; text = "기록 없음"; ObjectID = "Led-3S-dsQ"; */
+"Led-3S-dsQ.text" = "기록 없음";
+
+/* Class = "UILabel"; text = "에빙하우스 망각곡선이란?"; ObjectID = "Lie-gP-2wy"; */
+"Lie-gP-2wy.text" = "에빙하우스 망각곡선이란?";
+
+/* Class = "UILabel"; text = "단어장 이름"; ObjectID = "Llq-nQ-BoM"; */
+"Llq-nQ-BoM.text" = "단어장 이름";
+
+/* Class = "UILabel"; text = "(단위: exp)"; ObjectID = "NTc-C7-SlF"; */
+"NTc-C7-SlF.text" = "(단위: exp)";
+
+/* Class = "UITextView"; text = "TTS 말하기 속도는 1단계부터 7단계까지 설정이 가능하며, 기본 속도는 4단계 입니다."; ObjectID = "NWL-35-7BS"; */
+"NWL-35-7BS.text" = "TTS 말하기 속도는 1단계부터 7단계까지 설정이 가능하며, 기본 속도는 4단계 입니다.";
+
+/* Class = "UINavigationItem"; title = "결제 시도"; ObjectID = "NXT-d5-64t"; */
+"NXT-d5-64t.title" = "결제 시도";
+
+/* Class = "UITextField"; placeholder = "Prefix"; ObjectID = "NZp-4O-OLz"; */
+"NZp-4O-OLz.placeholder" = "Prefix";
+
+/* Class = "UIBarButtonItem"; title = "취소"; ObjectID = "Nyn-i3-i5a"; */
+"Nyn-i3-i5a.title" = "취소";
+
+/* Class = "UILabel"; text = "20"; ObjectID = "Ogk-Aw-Bjq"; */
+"Ogk-Aw-Bjq.text" = "20";
+
+/* Class = "UIBarButtonItem"; title = "편집"; ObjectID = "OkC-AR-H7Q"; */
+"OkC-AR-H7Q.title" = "편집";
+
+/* Class = "UILabel"; text = "Type"; ObjectID = "P98-2E-TUL"; */
+"P98-2E-TUL.text" = "Type";
+
+/* Class = "UILabel"; text = "6월 29일"; ObjectID = "PoZ-B0-GoX"; */
+"PoZ-B0-GoX.text" = "6월 29일";
+
+/* Class = "UILabel"; text = "기록 없음"; ObjectID = "PrQ-2C-KSh"; */
+"PrQ-2C-KSh.text" = "기록 없음";
+
+/* Class = "UILabel"; text = "80"; ObjectID = "Qur-nH-YaO"; */
+"Qur-nH-YaO.text" = "80";
+
+/* Class = "UILabel"; text = "English, 20단어"; ObjectID = "QyU-ey-vkt"; */
+"QyU-ey-vkt.text" = "English, 20단어";
+
+/* Class = "UIButton"; normalTitle = "10"; ObjectID = "SIp-Ai-YdR"; */
+"SIp-Ai-YdR.normalTitle" = "10";
+
+/* Class = "UILabel"; text = "정렬"; ObjectID = "SLT-Zr-hdU"; */
+"SLT-Zr-hdU.text" = "정렬";
+
+/* Class = "UILabel"; text = "Word"; ObjectID = "SML-bg-FW6"; */
+"SML-bg-FW6.text" = "Word";
+
+/* Class = "UITableViewSection"; headerTitle = "추가 기능"; ObjectID = "Sbs-Lp-8PD"; */
+"Sbs-Lp-8PD.headerTitle" = "추가 기능";
+
+/* Class = "UITextField"; placeholder = "Web Dictionary URL"; ObjectID = "T3E-FG-INi"; */
+"T3E-FG-INi.placeholder" = "Web Dictionary URL";
+
+/* Class = "UILabel"; text = "기록 없음"; ObjectID = "TSs-M0-K2E"; */
+"TSs-M0-K2E.text" = "기록 없음";
+
+/* Class = "UINavigationItem"; title = "미리 보기"; ObjectID = "URq-AR-5tI"; */
+"URq-AR-5tI.title" = "미리 보기";
+
+/* Class = "UILabel"; text = "hausvoca@gmail.com"; ObjectID = "UUx-on-3bJ"; */
+"UUx-on-3bJ.text" = "hausvoca@gmail.com";
+
+/* Class = "UINavigationItem"; title = "단어 수정"; ObjectID = "Ucz-To-O5q"; */
+"Ucz-To-O5q.title" = "단어 수정";
+
+/* Class = "UILabel"; text = "1번째 단어"; ObjectID = "UoF-xF-ZXO"; */
+"UoF-xF-ZXO.text" = "1번째 단어";
+
+/* Class = "UIButton"; normalTitle = "로그인"; ObjectID = "Uz7-86-Dce"; */
+"Uz7-86-Dce.normalTitle" = "로그인";
+
+/* Class = "UILabel"; text = "모국어"; ObjectID = "V4s-jY-hbi"; */
+"V4s-jY-hbi.text" = "모국어";
+
+/* Class = "UINavigationItem"; title = "TTS란?"; ObjectID = "Vah-Ph-SuA"; */
+"Vah-Ph-SuA.title" = "TTS란?";
+
+/* Class = "UIButton"; normalTitle = "개인정보처리방침"; ObjectID = "WTT-ep-flN"; */
+"WTT-ep-flN.normalTitle" = "개인정보처리방침";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "WVI-L5-sNg"; */
+"WVI-L5-sNg.text" = "Label";
+
+/* Class = "UITableViewSection"; footerTitle = "학습 효과 극대화를 위한 필수 옵션입니다."; ObjectID = "Wi2-9R-aUC"; */
+"Wi2-9R-aUC.footerTitle" = "학습 효과 극대화를 위한 필수 옵션입니다.";
+
+/* Class = "UITableViewSection"; headerTitle = "에빙하우스"; ObjectID = "Wi2-9R-aUC"; */
+"Wi2-9R-aUC.headerTitle" = "에빙하우스";
+
+/* Class = "UILabel"; text = "TTS 말하기 속도"; ObjectID = "WyK-gX-0CA"; */
+"WyK-gX-0CA.text" = "TTS 말하기 속도";
+
+/* Class = "UIBarButtonItem"; title = "완료"; ObjectID = "XSl-GI-l6s"; */
+"XSl-GI-l6s.title" = "완료";
+
+/* Class = "UITextView"; text = "복습 알림은 매 학습 후 10분 뒤, 1시간 뒤, 1일 뒤, 7일 뒤, 이후 30일마다 반복됩니다."; ObjectID = "XTv-Cp-eir"; */
+"XTv-Cp-eir.text" = "복습 알림은 매 학습 후 10분 뒤, 1시간 뒤, 1일 뒤, 7일 뒤, 이후 30일마다 반복됩니다.";
+
+/* Class = "UIButton"; normalTitle = "단어 추가"; ObjectID = "XhJ-XI-1EK"; */
+"XhJ-XI-1EK.normalTitle" = "단어 추가";
+
+/* Class = "UILabel"; text = "토익 필수 10 - 3"; ObjectID = "Y6R-eY-4UG"; */
+"Y6R-eY-4UG.text" = "토익 필수 10 - 3";
+
+/* Class = "UILabel"; text = "Info"; ObjectID = "YkG-1a-YLt"; */
+"YkG-1a-YLt.text" = "Info";
+
+/* Class = "UILabel"; text = "지난 7일간의 학습기록"; ObjectID = "Z5J-OR-61N"; */
+"Z5J-OR-61N.text" = "지난 7일간의 학습기록";
+
+/* Class = "UIButton"; normalTitle = "FBSDKLoginButton"; ObjectID = "ZB4-G2-Io0"; */
+"ZB4-G2-Io0.normalTitle" = "FBSDKLoginButton";
+
+/* Class = "UIButton"; normalTitle = "₩9,900"; ObjectID = "Zpr-mO-d8N"; */
+"Zpr-mO-d8N.normalTitle" = "₩9,900";
+
+/* Class = "UIButton"; normalTitle = "로그아웃"; ObjectID = "a6h-Ta-4Bq"; */
+"a6h-Ta-4Bq.normalTitle" = "로그아웃";
+
+/* Class = "UITextField"; placeholder = "단어"; ObjectID = "aBW-bY-LpE"; */
+"aBW-bY-LpE.placeholder" = "단어";
+
+/* Class = "UIBarButtonItem"; title = "완료"; ObjectID = "aV7-cw-EKZ"; */
+"aV7-cw-EKZ.title" = "완료";
+
+/* Class = "UILabel"; text = "Data"; ObjectID = "acU-LE-wxm"; */
+"acU-LE-wxm.text" = "Data";
+
+/* Class = "UITableViewSection"; footerTitle = "단어를 기준으로 앞쪽에 적힐 문자열입니다."; ObjectID = "ae1-e7-lUL"; */
+"ae1-e7-lUL.footerTitle" = "단어를 기준으로 앞쪽에 적힐 문자열입니다.";
+
+/* Class = "UITableViewSection"; headerTitle = "Prefix 수동 입력"; ObjectID = "ae1-e7-lUL"; */
+"ae1-e7-lUL.headerTitle" = "Prefix 수동 입력";
+
+/* Class = "UINavigationItem"; title = "내 정보"; ObjectID = "asp-wh-HGE"; */
+"asp-wh-HGE.title" = "내 정보";
+
+/* Class = "UITextView"; text = "망각곡선이란 독일의 심리학자 헤르만 에빙하우스(Hermann Ebbinghaus, 1885)의 연구에서 등장한 것으로 시간이 지날수록 학습한 내용을 얼마나 잊어먹는가에 대한 그래프입니다."; ObjectID = "bCm-2O-nfG"; */
+"bCm-2O-nfG.text" = "망각곡선이란 독일의 심리학자 헤르만 에빙하우스(Hermann Ebbinghaus, 1885)의 연구에서 등장한 것으로 시간이 지날수록 학습한 내용을 얼마나 잊어먹는가에 대한 그래프입니다.";
+
+/* Class = "UINavigationItem"; title = "설정"; ObjectID = "bE6-Xm-gqn"; */
+"bE6-Xm-gqn.title" = "설정";
+
+/* Class = "UILabel"; text = "앱을 종료하고"; ObjectID = "cGo-Gl-D4w"; */
+"cGo-Gl-D4w.text" = "앱을 종료하고";
+
+/* Class = "UILabel"; text = "에빙하우스 알림 켜기"; ObjectID = "cJB-47-fgt"; */
+"cJB-47-fgt.text" = "에빙하우스 알림 켜기";
+
+/* Class = "UILabel"; text = "Language, 20단어"; ObjectID = "drk-E6-jmi"; */
+"drk-E6-jmi.text" = "Language, 20단어";
+
+/* Class = "UILabel"; text = "34/60"; ObjectID = "eTE-fd-UmY"; */
+"eTE-fd-UmY.text" = "34/60";
+
+/* Class = "UITextField"; placeholder = "단어장 이름"; ObjectID = "ea2-gk-7ex"; */
+"ea2-gk-7ex.placeholder" = "단어장 이름";
+
+/* Class = "UITextField"; placeholder = "이름"; ObjectID = "eg8-Og-y8z"; */
+"eg8-Og-y8z.placeholder" = "이름";
+
+/* Class = "UIBarButtonItem"; title = "완료"; ObjectID = "ejK-1K-BJE"; */
+"ejK-1K-BJE.title" = "완료";
+
+/* Class = "UITextField"; placeholder = "Suffix"; ObjectID = "f04-gM-YUB"; */
+"f04-gM-YUB.placeholder" = "Suffix";
+
+/* Class = "UIButton"; normalTitle = "학습하기"; ObjectID = "f0a-VE-q0g"; */
+"f0a-VE-q0g.normalTitle" = "학습하기";
+
+/* Class = "UIBarButtonItem"; title = "완료"; ObjectID = "fPH-V5-I8e"; */
+"fPH-V5-I8e.title" = "완료";
+
+/* Class = "UITableViewSection"; footerTitle = "앱을 종료한 후 설정한 시간이 지나면 복습이 필요한 단어장 개수를 알려줍니다."; ObjectID = "fdQ-AZ-fMz"; */
+"fdQ-AZ-fMz.footerTitle" = "앱을 종료한 후 설정한 시간이 지나면 복습이 필요한 단어장 개수를 알려줍니다.";
+
+/* Class = "UITableViewSection"; headerTitle = "알림"; ObjectID = "fdQ-AZ-fMz"; */
+"fdQ-AZ-fMz.headerTitle" = "알림";
+
+/* Class = "UINavigationItem"; title = "에빙하우스 망각곡선이란?"; ObjectID = "g4M-QI-gFx"; */
+"g4M-QI-gFx.title" = "에빙하우스 망각곡선이란?";
+
+/* Class = "UIButton"; normalTitle = "미리 보기"; ObjectID = "gAD-lI-I2B"; */
+"gAD-lI-I2B.normalTitle" = "미리 보기";
+
+/* Class = "UIBarButtonItem"; title = "다음"; ObjectID = "gEV-Xs-mBb"; */
+"gEV-Xs-mBb.title" = "다음";
+
+/* Class = "UITableViewSection"; footerTitle = "단어를 기준으로 뒤쪽에 적힐 문자열입니다. (없다면 비워두세요)"; ObjectID = "gjQ-gZ-8P2"; */
+"gjQ-gZ-8P2.footerTitle" = "단어를 기준으로 뒤쪽에 적힐 문자열입니다. (없다면 비워두세요)";
+
+/* Class = "UITableViewSection"; headerTitle = "Suffix 수동 입력"; ObjectID = "gjQ-gZ-8P2"; */
+"gjQ-gZ-8P2.headerTitle" = "Suffix 수동 입력";
+
+/* Class = "UILabel"; text = "30"; ObjectID = "hFd-Q8-A0s"; */
+"hFd-Q8-A0s.text" = "30";
+
+/* Class = "UILabel"; text = "사전 설정"; ObjectID = "hJk-sl-UUt"; */
+"hJk-sl-UUt.text" = "사전 설정";
+
+/* Class = "UILabel"; text = "기록 없음"; ObjectID = "hUk-Ak-MT1"; */
+"hUk-Ak-MT1.text" = "기록 없음";
+
+/* Class = "UIButton"; normalTitle = "보내기"; ObjectID = "hg3-pU-AT5"; */
+"hg3-pU-AT5.normalTitle" = "보내기";
+
+/* Class = "UIButton"; normalTitle = "₩4,900"; ObjectID = "hpo-yU-9LD"; */
+"hpo-yU-9LD.normalTitle" = "₩4,900";
+
+/* Class = "UINavigationItem"; title = "단어 개수"; ObjectID = "i58-Lt-G2L"; */
+"i58-Lt-G2L.title" = "단어 개수";
+
+/* Class = "UILabel"; text = "총 학습횟수 : 5회"; ObjectID = "iYa-TP-kaS"; */
+"iYa-TP-kaS.text" = "총 학습횟수 : 5회";
+
+/* Class = "UITextView"; text = "https://ko.wikipedia.org/wiki/음성_합성"; ObjectID = "ilX-LD-krM"; */
+"ilX-LD-krM.text" = "https://ko.wikipedia.org/wiki/음성_합성";
+
+/* Class = "UILabel"; text = "6월 30일"; ObjectID = "j3t-4u-MjT"; */
+"j3t-4u-MjT.text" = "6월 30일";
+
+/* Class = "UITextView"; text = "에빙하우스 알림을 켜 놓으시면 이에 따른 최적의 학습효과를 얻을 수 있습니다."; ObjectID = "j8u-mY-g7V"; */
+"j8u-mY-g7V.text" = "에빙하우스 알림을 켜 놓으시면 이에 따른 최적의 학습효과를 얻을 수 있습니다.";
+
+/* Class = "UILabel"; text = "(1850년 1월 24일 ~ 1909년 2월26일)"; ObjectID = "jhK-mF-hJU"; */
+"jhK-mF-hJU.text" = "(1850년 1월 24일 ~ 1909년 2월26일)";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "jom-ja-xSc"; */
+"jom-ja-xSc.title" = "Title";
+
+/* Class = "UIBarButtonItem"; title = "취소"; ObjectID = "kEE-Ox-K9G"; */
+"kEE-Ox-K9G.title" = "취소";
+
+/* Class = "UILabel"; text = "Mean"; ObjectID = "kQH-nI-1ov"; */
+"kQH-nI-1ov.text" = "Mean";
+
+/* Class = "UILabel"; text = "느림"; ObjectID = "ky0-Os-AbC"; */
+"ky0-Os-AbC.text" = "느림";
+
+/* Class = "UITableViewSection"; footerTitle = "각 단어는 객관식(한국어 선택), 객관식(외국어 선택), 주관식(외국어 입력) 3단계가 출제됩니다."; ObjectID = "lpN-ue-mIr"; */
+"lpN-ue-mIr.footerTitle" = "각 단어는 객관식(한국어 선택), 객관식(외국어 선택), 주관식(외국어 입력) 3단계가 출제됩니다.";
+
+/* Class = "UITableViewSection"; headerTitle = "주관식 출제"; ObjectID = "lpN-ue-mIr"; */
+"lpN-ue-mIr.headerTitle" = "주관식 출제";
+
+/* Class = "UINavigationItem"; title = "단어 입력"; ObjectID = "lsg-Pl-eig"; */
+"lsg-Pl-eig.title" = "단어 입력";
+
+/* Class = "UITextField"; placeholder = "뜻"; ObjectID = "mEQ-R2-rRk"; */
+"mEQ-R2-rRk.placeholder" = "뜻";
+
+/* Class = "UILabel"; text = "단어장 이름"; ObjectID = "mI7-VT-dVU"; */
+"mI7-VT-dVU.text" = "단어장 이름";
+
+/* Class = "UILabel"; text = "밀린 단어장 알림"; ObjectID = "maF-W0-on8"; */
+"maF-W0-on8.text" = "밀린 단어장 알림";
+
+/* Class = "UITableViewSection"; footerTitle = "학습할 언어별로 사전을 설정할 수 있습니다. "; ObjectID = "miq-zS-2Ea"; */
+"miq-zS-2Ea.footerTitle" = "학습할 언어별로 사전을 설정할 수 있습니다. ";
+
+/* Class = "UITableViewSection"; headerTitle = "사전"; ObjectID = "miq-zS-2Ea"; */
+"miq-zS-2Ea.headerTitle" = "사전";
+
+/* Class = "UILabel"; text = "6월 27일"; ObjectID = "mlg-Ad-xQu"; */
+"mlg-Ad-xQu.text" = "6월 27일";
+
+/* Class = "UILabel"; text = "260"; ObjectID = "mti-5M-Yds"; */
+"mti-5M-Yds.text" = "260";
+
+/* Class = "UILabel"; text = "생성 일자 순"; ObjectID = "nzF-mu-BlG"; */
+"nzF-mu-BlG.text" = "생성 일자 순";
+
+/* Class = "UILabel"; text = "분 뒤"; ObjectID = "ooD-q0-vtd"; */
+"ooD-q0-vtd.text" = "분 뒤";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "pK7-cf-Cw8"; */
+"pK7-cf-Cw8.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "단어 입력"; ObjectID = "pRk-W1-Law"; */
+"pRk-W1-Law.title" = "단어 입력";
+
+/* Class = "UILabel"; text = "120"; ObjectID = "qZ6-Bb-k22"; */
+"qZ6-Bb-k22.text" = "120";
+
+/* Class = "UITextField"; placeholder = "뜻"; ObjectID = "rvT-Yu-4UH"; */
+"rvT-Yu-4UH.placeholder" = "뜻";
+
+/* Class = "UILabel"; text = "Ebbinghaus Level"; ObjectID = "sO6-Jf-8rD"; */
+"sO6-Jf-8rD.text" = "Ebbinghaus Level";
+
+/* Class = "UILabel"; text = "선택하기"; ObjectID = "sde-qW-08i"; */
+"sde-qW-08i.text" = "선택하기";
+
+/* Class = "UITextView"; text = "https://ko.wikipedia.org/wiki/망각_곡선"; ObjectID = "sv5-dS-Dlj"; */
+"sv5-dS-Dlj.text" = "https://ko.wikipedia.org/wiki/망각_곡선";
+
+/* Class = "UILabel"; text = "TTS란?"; ObjectID = "sxn-Rz-MrT"; */
+"sxn-Rz-MrT.text" = "TTS란?";
+
+/* Class = "UILabel"; text = "태그"; ObjectID = "tHG-rC-1Nq"; */
+"tHG-rC-1Nq.text" = "태그";
+
+/* Class = "UINavigationItem"; title = "사전 검색"; ObjectID = "tTO-ge-UAX"; */
+"tTO-ge-UAX.title" = "사전 검색";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "tbj-pC-S8S"; */
+"tbj-pC-S8S.text" = "Label";
+
+/* Class = "UILabel"; text = "사전 사용"; ObjectID = "tfv-yI-d0F"; */
+"tfv-yI-d0F.text" = "사전 사용";
+
+/* Class = "UILabel"; text = "Haus 150"; ObjectID = "tpi-Ge-vyZ"; */
+"tpi-Ge-vyZ.text" = "Haus 150";
+
+/* Class = "UITableViewSection"; headerTitle = "문의하기"; ObjectID = "u3y-xE-yge"; */
+"u3y-xE-yge.headerTitle" = "문의하기";
+
+/* Class = "UIBarButtonItem"; title = "완료"; ObjectID = "uBg-M5-FOH"; */
+"uBg-M5-FOH.title" = "완료";
+
+/* Class = "UILabel"; text = "기록 없음"; ObjectID = "uDz-SP-nbi"; */
+"uDz-SP-nbi.text" = "기록 없음";
+
+/* Class = "UITextView"; text = "TTS 사용을 위해선 아이폰 좌측 측면의 무음모드 버튼을 비활성화하셔야 합니다."; ObjectID = "wJa-HD-SCY"; */
+"wJa-HD-SCY.text" = "TTS 사용을 위해선 아이폰 좌측 측면의 무음모드 버튼을 비활성화하셔야 합니다.";
+
+/* Class = "UILabel"; text = "TTS 켜기"; ObjectID = "wdd-Ie-RVc"; */
+"wdd-Ie-RVc.text" = "TTS 켜기";
+
+/* Class = "UINavigationItem"; title = "로그인"; ObjectID = "ybd-ln-Iza"; */
+"ybd-ln-Iza.title" = "로그인";
+
+/* Class = "UILabel"; text = "단어 개수"; ObjectID = "yoi-y0-rlP"; */
+"yoi-y0-rlP.text" = "단어 개수";
+
+/* Class = "UILabel"; text = "7월 1일"; ObjectID = "zXv-0i-Da2"; */
+"zXv-0i-Da2.text" = "7월 1일";
+
+/* Class = "UILabel"; text = "Haus 50"; ObjectID = "zuQ-7t-g4G"; */
+"zuQ-7t-g4G.text" = "Haus 50";

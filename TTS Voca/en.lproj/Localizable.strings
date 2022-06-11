@@ -1,0 +1,264 @@
+/* 
+  Localizable.strings
+  TTS Voca
+
+  Created by 정지환 on 25/08/2019.
+  Copyright © 2019 Jihwan Jung. All rights reserved.
+*/
+
+// TAB BAR CONTROLLER(GLOBAL) -START-
+"Edit" = "Edit";
+"Voca" = "Wordbook";
+"Cancel" = "Cancel";
+"Word" = "Word";
+"Mean" = "Mean";
+"word" = "word";
+" words" = " words";
+"Total learnings" = "Total learnings";
+" times" = " times";
+"Remove" = "Remove";
+"Delete" = "Delete";
+"Yes" = "Yes";
+"No" = "No";
+"Ok" = "Ok";
+"Done" = "Done";
+"Next" = "Next";
+"Settings" = "Settings";
+"Save" = "Save";
+// TAB BAR CONTROLLER(GLOBAL) --END--
+
+
+// Bean
+"Global Dict" = "Global Dict";
+
+// FirstTab -START-
+// VocaListVC
+"Tag" = "Tag";
+"Align" = "Align"; // Align인가 Sort인가?
+"All" = "All";
+"Align Review required" = "Review required";
+"Align Creation date" = "Creation date";
+"Select voca" = "Select wordbook";
+
+"There is no voca selected." = "There is no selected wordbook.";
+"There is not enough slots to make more voca." = "There is not enough slots to make more wordbook.";
+"Expand" = "Expand";
+"Allow notification" = "Allow notification";
+"Do not allow notifications" = "Do not allow notifications";
+"Ebbinghaus notifications have been set." = "Ebbinghaus notifications have been set.";
+"Ebbinghaus notifications are not available.\nPlease check your settings." = "Ebbinghaus notifications are not available.\nPlease check your settings.";
+"Please select a task to run." = "Please select a task to run.";
+"Turn off notifications" = "Turn off notifications";
+"Turn on notifications" = "Turn on notifications";
+"Do you want to turn on notifications for the selected voca?" = "Do you want to turn on notifications for the selected wordbook?";
+"You have turned on notifications for the selected voca." = "Turned on individual notifications.";
+"Do you want to turn off notifications for the selected voca?" = "Do you want to turn off notifications for the selected wordbook?";
+"You have turned off notifications for the selected voca." = "Turned off individual notifications.";
+"Are you sure you want to delete\nthe selected vocabulary?" = "Are you sure you want to delete\nthe selected wordbook?";
+"Deleted selected voca." = "Deleted selected wordbook.";
+"This voca has been deactivated due to lack of slots.\nPlease check your account slot count." = "This wordbook has been deactivated due to lack of slots.\nPlease check your account slot count.";
+" items" = " items";
+"Are you sure you want to delete\nthe selected vocabulary?" = "Are you sure you want to delete\nthe selected wordbook?";
+"Deleted selected voca." = "Deleted selected wordbook.";
+"Review" = "Review";
+
+
+// VocaDetailVC
+"Touch a word to hear it.\n(You must turn off mute switch.)" = "Touch a word to hear it.\n(You must turn off mute switch.)";
+"Show all" = "Show all";
+"Word only" = "Word only";
+"Mean only" = "Mean only";
+"Learning" = "Learning";
+
+"Notification" = "Notification";
+"Creation date" = "Creation date";
+"Word count" = "Word count";
+"Total learnings" = "Total learnings";
+"Total learning time" = "Total learning time";
+"Due date" = "Due date";
+"Ebbinghaus level" = "Ebbinghaus level";
+"Undecided" = "Undecided";
+"Unlearned" = "Unlearned";
+
+// Eidt voca word
+"Edit word" = "Edit word";
+
+// EditVocaWordVC
+"You can register up to 20." = "You can register up to 20.";
+"The minimum word count is 4." = "The minimum word count is 4.";
+"Line" = "Line";
+" is empty." = " is empty.";
+"Are you sure you want to delete the word?" = "Are you sure you want to delete the word?";
+"Add word" = "Add row";
+
+// New voca & Edit voca data
+"New voca" = "New wordbook";
+"Edit voca" = "Edit wordbook";
+"Tag color" = "Tag color";
+"Voca title" = "Wordbook title"; // Voca name? 이모한테 물어보기
+"Language" = "Language";
+"Word count" = "Word count";
+"Preview" = "Preview";
+"Please enter a vocabulary name." = "Please enter a wordbook name.";
+"Select" = "Select";
+"Please select a language." = "Please select a language.";
+
+// Preview VC
+"Close" = "Close";
+
+// WordFormVC
+"Enter word" = "Enter word";
+
+// LearningVC
+"Learning completed" = "Complete";
+"Are you sure you want to cancel the learning?" = "Are you sure you want to cancel the learning?";
+"No dictionary" = "No dictionary";
+"Please set the dictionary in the Settings tab." = "Please set the dictionary in the Settings tab.";
+
+
+// FirstTab --END--
+
+
+// SecondTab -START-
+"My Info" = "My Info";
+"My voca" = "My wordbook";
+"Slot count" = "Slot count";
+"Total exp" = "Total exp";
+"Total learning time" = "Total learning time";
+"Today's learning time" = "Today's learning time";
+"Last 7 days learning history" = "Last 7 days learning history";
+"no data" = "no data";
+" slots" = " slots";
+"Unit" = "Unit";
+
+// SecondTab --End--
+
+
+// ThirdTab -START-
+
+// header titles
+"Account" = "Account";
+"Ebbinghaus" = "Ebbinghaus";
+"Notification" = "Notification";
+"TTS" = "TTS";
+"Short answer questions" = "Short answer questions";
+"Dictionary" = "Dictionary";
+"Additional features" = "Additional features";
+"Contact us" = "Contact us";
+
+// footer titles
+"Essential option for maximum learning." = "Essential option for maximum learning.";
+"After exiting the app, after the time you set, notification the number of voca need to be reviewed." = "After exiting the app, after the time you set, notification the number of wordbook need to be reviewed."; // 많이 이상하다.
+"Please turn off the mute mode of your iPhone." = "Please turn off the mute mode of your iPhone.";
+"During learning, each word will have three levels: multiple choice(native language selection), multiple choice(foreign language selection), and short answer(foreign language input)." = "During learning, each word will have three levels: multiple choice(native language selection), multiple choice(foreign language selection), and short answer(foreign language input).";
+"You can set a dictionary for each language you want to learn." = "You can set a dictionary for each language you want to learn.";
+"You must have a mail account registered on your iPhone." = "You must have a mail account registered on your iPhone.";
+
+// Setting Cell's Labels
+"Login" = "Login";
+"Logout" = "Logout";
+"Ebbinghaus notification" = "Ebbinghaus notification";
+"What is the Ebbinghaus Forgetting curve?" = "What is Forgetting curve?";
+"Delayed voca notification" = "Delayed wordbook notification"; // 매우 이상함.
+"bluPickerPrefix" = "";
+"bluPickerSuffix" = "minutes after exiting the app";
+"TTSLabelText" = "TTS";
+"TTS speaking speed" = "TTS speaking speed";
+"Slow" = "Slow";
+"Medium" = "Medium";
+"Fast" = "Fast";
+"Native language" = "Native language";
+"What is TTS?" = "What is TTS?";
+"Short answer question" = "Short answer question";
+"Dictionary settings" = "Dictionary settings";
+"Add 50 voca slots." = "Add 50 wordbook slots.";
+"Add 150 voca slots." = "Add 150 wordbook slots.";
+"Send" = "Send";
+
+"Haus50price" = "$3.99";
+"Haus150price" = "$7.99";
+
+// Setting Alert
+"Notification not allowed" = "Notification not allowed";
+"Delayed voca notification are not available." = "Delayed wordbook notification are not available.";
+"Ebbinghaus notifications are not available." = "Ebbinghaus notifications are not available.";
+"Login is required." = "Login is required.";
+"Failed to send email" = "Failed to send email";
+"Please check your device's mail settings." = "Please check your device's mail settings.";
+"Do you want to Logout?" = "Do you want to Logout?";
+
+// Setting TTS Speech
+
+// Explanation Ebbinghaus Forgetting curve
+"Ebbinghaus Forgetting curve" = "Forgetting curve";
+"Ebbinghaus Survive date" = "(01/24/1850 ~ 02/26/1909)";
+"Ebbinghaus explanation1" = "The Forgetting curve, which emerged from the study of German psychologist Hermann Ebbinghaus (1885), is a graph of how much you forget what you learned over time.";
+"Ebbinghaus explanation2" = "If you turn on the Ebbinghaus notification, you can get the optimal learning effect.";
+"Ebbinghaus explanation3" = "Notifications repeat every 10 minutes, 1 hour, 1 day, 7 days, and 30 days after each learning.";
+"Ebbinghaus Wikipedia link" = "https://en.wikipedia.org/wiki/Forgetting_curve";
+
+// Explanation TTS
+"TTS explanation1" = "TTS is abbreviation of Text-To-Speech. It is a function that pronounces words registered according to the set language.";
+"TTS explanation2" = "To use TTS, you need to turn off the mute mode button on the left side of the iPhone.";
+"TTS explanation3" = "TTS speaking speed can be set from 1 to 7 levels. The default speed is 4 levels.";
+"TTS Wikipedia link" = "https://en.wikipedia.org/wiki/Speech_synthesis";
+
+// Purchase VC
+"Attempt payment" = "Attempt payment";
+
+// Login VC
+"Privacy Policy" = "Privacy Policy";
+
+// BasicDictionarySelectTVC
+"Global setting(default)" = "Global setting(default)";
+"Global setting" = "Global setting";
+"Language-specific presets(advanced)" = "Language-specific presets(advanced)";
+"Language-specific presets" = "Language-specific presets";
+"Dictionary setting" = "Dictionary setting";
+"Language list" = "Language list";
+
+// DictionarySettingTVC
+
+// Header titles
+"DHeader1" = "Use language-specific dictionary";
+"DHeader2" = "Dictionary name";
+"DHeader3" = "Prefix, Suffix auto input";
+"DHeader4" = "Prefix manual input";
+"DHeader5" = "Suffix manual input";
+"DHeader6" = "Test URL";
+
+// Footer titles
+"DFooter1" = "This dictionary takes precedence over the global dictionary.";
+"DFooter2" = "The name of the dictionary to be displayed during the learning.";
+"DFooter3" = "Search for 'study' in the web dictionary and copy and paste the URL from the address bar.";
+"DFooter4" = "The text to write before the word.";
+"DFooter5" = "The text to write after the word.(Leave blank if none.)";
+"DFooter6" = "The above URL searches for the word 'study' using the prefix and suffix entered.\n\nClick the link to see if it works.";
+
+// Dictionary Search
+"Dictionary search" = "Dictionary search";
+
+// Dictionary Setting
+"Use dict" = "Enable";
+
+
+
+
+// ThirdTab --END--
+
+"Level 1" = "Level1";
+"Level 2" = "Level2";
+"Level 3" = "Level3";
+"Level 4" = "Level4";
+"Level 5" = "Level5";
+
+// After..
+"Logged-in to another device." = "Logged-in to another device.\nPlease login again.";
+"There is no voca. Try adding voca!" = "There is no wordbook. Try adding wordbook!";
+
+"bundleTitle" = "Review delayed wordbook";
+"EditSelect" = "Select";
+"Add" = "Add";
+"Are you sure you want to add shared wordbook?" = "Are you sure you want to add shared wordbook?";
+"Added successfully." = "Added successfully.";
+"Share" = "Share";
