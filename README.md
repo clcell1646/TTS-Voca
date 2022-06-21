@@ -3,14 +3,14 @@
 <div>과거에 시간에 쫒기며 만들었던 프로젝트라 미흡한 부분이 많습니다.</div>
 <img src="https://user-images.githubusercontent.com/37468032/174878453-5022a973-6fac-4f2b-a682-77c986c52728.PNG" width="300" height="649.6">
 <img src="https://user-images.githubusercontent.com/37468032/174879683-bbdd6b78-104e-4d2f-a65f-71d8c0e046cf.PNG" width="300" height="649.6">
-<img src="https://user-images.githubusercontent.com/37468032/174878453-5022a973-6fac-4f2b-a682-77c986c52728.PNG" width="300" height="649.6">
+<img src="https://user-images.githubusercontent.com/37468032/174879702-50986c6d-5684-4cfe-8d39-055c5ca72b2e.PNG" width="300" height="649.6">
+<img src="https://user-images.githubusercontent.com/37468032/174879714-35b688ae-da2c-48c2-9f44-4e48a8058951.PNG" width="300" height="649.6">
+<img src="https://user-images.githubusercontent.com/37468032/174879719-b214b379-8b52-4620-a0e8-812b612a6be8.PNG" width="300" height="649.6">
+<img src="https://user-images.githubusercontent.com/37468032/174879724-b7b973b9-45cb-4d52-84f0-c112879b61e8.PNG" width="300" height="649.6">
+<img src="https://user-images.githubusercontent.com/37468032/174879735-aeead40f-977b-41fc-a776-ab6b5fe4c300.PNG" width="300" height="649.6">
+<img src="https://user-images.githubusercontent.com/37468032/174879747-1437a358-5627-4321-9337-1c78a5a8462d.PNG" width="300" height="649.6">
 
-![IMG_7438](https://user-images.githubusercontent.com/37468032/174879702-50986c6d-5684-4cfe-8d39-055c5ca72b2e.PNG)
-![IMG_7439](https://user-images.githubusercontent.com/37468032/174879714-35b688ae-da2c-48c2-9f44-4e48a8058951.PNG)
-![IMG_7440](https://user-images.githubusercontent.com/37468032/174879719-b214b379-8b52-4620-a0e8-812b612a6be8.PNG)
-![IMG_7441](https://user-images.githubusercontent.com/37468032/174879724-b7b973b9-45cb-4d52-84f0-c112879b61e8.PNG)
-![IMG_7442](https://user-images.githubusercontent.com/37468032/174879735-aeead40f-977b-41fc-a776-ab6b5fe4c300.PNG)
-![IMG_7443](https://user-images.githubusercontent.com/37468032/174879747-1437a358-5627-4321-9337-1c78a5a8462d.PNG)
+
 ![IMG_7445](https://user-images.githubusercontent.com/37468032/174879762-b23d9348-b586-42cb-913b-225ef1ccf7ca.jpg)
 ![IMG_7446](https://user-images.githubusercontent.com/37468032/174879757-44c31b1b-6356-453a-b740-9122198cbb34.PNG)
 ![IMG_7448](https://user-images.githubusercontent.com/37468032/174879767-e849a1e1-bc8a-4300-b6a8-a25ca6730b2d.PNG)
