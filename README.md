@@ -4,7 +4,7 @@
 <br>
 <img src="https://user-images.githubusercontent.com/37468032/174882681-cb5d2261-dc78-484e-b2b0-b00d9d2a6daa.png" width="100" height="100">
 <p>Haus Wordbook<br>앱스토어 서비스: 2019.08.01 ~ 2020.08.31<br><del>CloudVoca.co.kr</del>(호스팅 종료)</p>
-
+<img alt="Haus Wordbook" src="https://user-images.githubusercontent.com/37468032/174888606-c19d7afc-1a23-49c5-9353-ecd5abf993ad.png">
 <br>
 <img src="https://user-images.githubusercontent.com/37468032/174878453-5022a973-6fac-4f2b-a682-77c986c52728.PNG" width="300" height="649.6">
 <img src="https://user-images.githubusercontent.com/37468032/174879683-bbdd6b78-104e-4d2f-a65f-71d8c0e046cf.PNG" width="300" height="649.6">
