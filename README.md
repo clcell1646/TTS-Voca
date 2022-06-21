@@ -22,4 +22,4 @@
 <img src="https://user-images.githubusercontent.com/37468032/174879751-be9b9491-1511-4bf5-b683-ecc9e7a5f2e9.PNG" width="300" height="649.6">
 <img src="https://user-images.githubusercontent.com/37468032/174879782-b86c4b80-1600-434e-ae8c-465a68eea3fd.PNG" width="300" height="649.6">
 <img src="https://user-images.githubusercontent.com/37468032/174879788-005b19c6-fbfd-4eda-9389-4baf9cf366b1.PNG" width="300" height="649.6">
-https://user-images.githubusercontent.com/37468032/174882459-fe535733-3c78-47b9-8703-f0b4b5afbd15.png
+<img alt="appstore screenshot" src="https://user-images.githubusercontent.com/37468032/174882459-fe535733-3c78-47b9-8703-f0b4b5afbd15.png">
