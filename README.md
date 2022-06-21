@@ -2,9 +2,9 @@
 
 <div>과거에 시간에 쫒기며 만들었던 프로젝트라 미흡한 부분이 많습니다.</div>
 <img src="https://user-images.githubusercontent.com/37468032/174878453-5022a973-6fac-4f2b-a682-77c986c52728.PNG" width="300" height="649.6">
+<img src="https://user-images.githubusercontent.com/37468032/174879683-bbdd6b78-104e-4d2f-a65f-71d8c0e046cf.PNG" width="300" height="649.6">
+<img src="https://user-images.githubusercontent.com/37468032/174878453-5022a973-6fac-4f2b-a682-77c986c52728.PNG" width="300" height="649.6">
 
-![IMG_7429](https://user-images.githubusercontent.com/37468032/174879683-bbdd6b78-104e-4d2f-a65f-71d8c0e046cf.PNG)
-![IMG_7437](https://user-images.githubusercontent.com/37468032/174879695-bd606d28-eaa8-4a70-9ff3-14bff4e2c68f.jpg)
 ![IMG_7438](https://user-images.githubusercontent.com/37468032/174879702-50986c6d-5684-4cfe-8d39-055c5ca72b2e.PNG)
 ![IMG_7439](https://user-images.githubusercontent.com/37468032/174879714-35b688ae-da2c-48c2-9f44-4e48a8058951.PNG)
 ![IMG_7440](https://user-images.githubusercontent.com/37468032/174879719-b214b379-8b52-4620-a0e8-812b612a6be8.PNG)
