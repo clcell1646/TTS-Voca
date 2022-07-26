@@ -1,6 +1,6 @@
 # Haus Wordbook
 
-<div>과거에 시간에 쫓기며 만들었던 프로젝트라 코드에 미흡한 부분이 많습니다. 잘 부탁드립니다.</div>
+<div>시간에 쫓기며 만들었던</div>
 <br>
 <img src="https://user-images.githubusercontent.com/37468032/174882681-cb5d2261-dc78-484e-b2b0-b00d9d2a6daa.png" width="100" height="100">
 <p>Haus Wordbook<br>앱스토어 서비스: 2019.08.01 ~ 2020.08.31<br><del>CloudVoca.co.kr</del>(호스팅 종료)</p>
